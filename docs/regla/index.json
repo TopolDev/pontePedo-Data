@@ -1,0 +1,12 @@
+{
+  "id": "regla",
+  "nombre": "Decreto",
+  "descripcion": "Desafíos divertidos y locos para todos los jugadores",
+  "totalPreguntas": 242,
+  "gratuitas": 40,
+  "esPremiumOnly": false,
+  "color": "e57013",
+  "imagenFondo": "regla.png"
+}
+
+
