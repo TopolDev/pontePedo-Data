@@ -1,0 +1,12 @@
+
+{
+  "id": "culpable",
+  "nombre": "Culpable",
+  "totalPreguntas": 236,
+  "gratuitas": 40,
+  "esPremiumOnly": false,
+  "color": "5021d1",
+  "imagenFondo": "culpable.png"
+}
+
+
