@@ -1,0 +1,452 @@
+{
+  "preguntas": [
+    {
+      "texto": "Todos toman. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "La persona que esté frente a ti, toma. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Beben tú y los dos jugadores a tus lados. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Reparte dos tragos a los jugadores de tu elección. Ellos pueden decidir si tú tomas también. || Básicos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Si tu nombre empieza con L, tomas. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tu apellido termina con Z, tomas. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tu apellido empieza con H, tomas. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Toman los que tengan la misma edad. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien mida menos de 160 toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien mida más de 180 toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no tenga cabello toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien sea zurdo toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga pecas reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga hoyuelos reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga un lunar en el antebrazo izquierdo toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga ojos claros toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga la mano más grande reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga las cejas más pobladas toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "La persona más fit del grupo reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga los labios más rojos reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga el mejor look toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien vista algo regalado toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien vista una prenda de color rojo reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga pantalones toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "A quien se le vean las rodillas toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga alguna prenda café toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Las personas que lleven zapatos negros reparten tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga algún accesorio en la cabeza toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien traiga anillos puestos toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga piercings toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga más cosas en sus bolsillos reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no tenga bolsillos reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien use lentes toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien traiga maquillaje toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien traiga camisa de vestir toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien cargue con kleenex o servilletas reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "El que tenga más canas toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 2
+    },
+    {
+      "texto": "Los que tengan un calcetín roto toman. || Apariencia y cosas que ya estaban",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien tenga las uñas mordidas toma || Apariencia y cosas que ya estaban",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien no traiga ropa interior toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si no traes puesto un brasier, tomas. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien traiga ropa interior rosa toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien traiga ropa interior negra toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien tenga la copa más alta reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien haya sido plantado en una cita toma. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "El ultimo que se enfermó toma. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga dólares reparte tragos. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga dinero en efectivo reparte tragos. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien venga acompañado intercambia tragos con su acompañante. || Cosas random",
+      "intensidad": 2
+    },
+    {
+      "texto": "El que pone más su casa para las borracheras reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien practique algún deporte reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien toque algún instrumento reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga spotify premium reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien sepa más datos curiosos reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga más seguidores en Instagram reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga videos publicados en TikTok toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga su cuenta privada en instagram toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Los que estén en una relación toman. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien suela compartir memes en Facebook toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si eres el hermano mayor, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si eres el hermano menor, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no sepa nadar reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien haya llorado con mamá Coco, toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no nació en esta ciudad toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tienes una racha de más de 60 días en TikTok, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tienes una racha de más de 150 días en Duolingo, repartes tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si hoy utilizaste ChatGPT, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si traes más de 3 llaves en tu llavero, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si hoy hiciste un pedido por internet, repartes tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tienes descargado Tinder en tu celular, tomas. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Los que no habían nacido cuando fue el 9/11 toman. || Personalidad y costumbres",
+      "intensidad": 2
+    },
+    {
+      "texto": "Los que ya habían nacido cuando fue el 9/11 reparten tragos. || Personalidad y costumbres",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien tenga el corazon roto toma dos tragos. Los demás le dan un abrazo. || Personalidad y costumbres",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien haya vuelto con su ex después de cortar toma. || Personalidad y costumbres",
+      "intensidad": 2
+    },
+    {
+      "texto": "Los que estén solteros intercambian tragos || Personalidad y costumbres",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien que menos se paró en la noche toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien vaya a darle ride a otros reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga más mensajes sin leer en Whatsapp toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga hora de llegada toma 2 tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga las manos sobre la mesa toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien lleve 4 turnos o más sin beber, toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "El que más ha comido en la noche reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien esté más ebrio reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "El siguiente en cumplir años reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no tenga hielo en su trago toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien viva a menos de 10 minutos en coche reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "El que planeó la reunión reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "El último que llegó a la reunión toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien ya tenga sueño toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga frío toma. La persona a su derecha le da un abrazo. || Del Momento",
+      "intensidad": 2
+    },
+    {
+      "texto": "El que tenga su vaso más vacío toma lo que resta. || Del Momento",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien planee coshar al final de la noche reparte tragos. || Del Momento",
+      "intensidad": 3
+    },
+    {
+      "texto": "Shot si no menciona tres canciones de Luis Miguel. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El ultimo que se quite los zapatos toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di el cumpleaños del @jugador2. si fallas, tomas. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di a qué se dedica el @jugador2. si fallas, tomas. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Júntense en grupos de 3. Quien no esté dentro de un grupo toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El ultimo en pararse toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El ultimo en dar un salto toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Enumeérense, toman los jugadores nones. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El ultimo que suba los brazos toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último que toque el suelo con las manos toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El primero que agarre su celular reparte tragos. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Júntense en grupos de 2, quien no esté dentro de un grupo toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "A la de tres, silven. Quien silve más bajito toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último en gritar su nombre toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último en subir los pies a la mesa toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Todos manden un mensaje por Whatsapp. El primero en recibir respuesta reparte tragos. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último en poner el celular al centro de la mesa toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Shot si no cantas el coro de una canción de Shakira. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último que se meta algo a la boca toma. || Retos",
+      "intensidad": 3
+    },
+    {
+      "texto": "El último en ponerse en 4 toma 2 tragos. || Retos",
+      "intensidad": 3
+    }
+  ]
+}
