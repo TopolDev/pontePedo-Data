@@ -1,14 +1,11 @@
 {
   "id": "reto",
   "nombre": "Reto",
-  "descripcion": "Desafíos divertidos y locos para todos los jugadores",
-  "totalChunks": 8,
   "totalPreguntas": 242,
-  "gratuitas": 30,
+  "gratuitas": 40,
   "esPremiumOnly": false,
   "color": "e57013",
   "imagenFondo": "reto.png"
 }
-
 
 
