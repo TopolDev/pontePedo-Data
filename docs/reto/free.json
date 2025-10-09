@@ -1,164 +1,165 @@
+free.json
 {
   "preguntas": [
     {
-      "texto": "Por una ronda, ningún jugador puede decir \"sí\". Quien lo haga, toma un trago.",
-      "intensidad": -1
+      "texto": "Chupar un limón sin hacer expresiones || 4",
+      "intensidad": 1
     },
     {
-      "texto": "Por una ronda, ningún jugador puede decir \"no\". Quien lo haga, toma un trago.",
-      "intensidad": -1
+      "texto": "Recibir un pellizco de cada jugador || 4",
+      "intensidad": 2
     },
     {
-      "texto": "Por una ronda, todos los jugadores deberán imitar un acento al hablar. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, ningún jugador puede mostrar los dientes. Quien falle, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, quien se pare de su silla deberá tomar un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora eres bartender. Te tocará preparar las bebidas de todos tus compañeros.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, no se pueden decir groserías. Quien falle, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, no pueden llamarse por sus nombres reales. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por las siguientes dos rondas, sólo este celular puede ser usado. Quien use otro, toma shot.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, los demás te deberán llamar \"LA GRAN SEÑORA\". Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, los demás te deberán llamar \"VIEJO RANCIO\". Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos los jugadores que tomen deben decir \"Te lo agradezco, Beyonce\" antes de dar el trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deben hablar como robots. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Dedo morado: {{YO}}, a partir de ahora, cuando chasquees los dedos, todos deberán acabarse la mitad de su bebida. Tienes hasta 3 chasquidos.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Dedo pendejo: A partir de ahora, cuando te toques la nariz, el resto deberá hacer lo mismo. El último en tocarse la nariz toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Indulto indiscreto: Puedes evitar tomar por una ronda si cuentas un secreto tuyo que nadie en la fiesta sepa.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Tumulto: Cada hombre cambia una prenda con una mujer.",
+      "texto": "{{YO}} lamer el pie del {{OTRO}} || 1",
       "intensidad": 3
     },
     {
-      "texto": "Tributo: Cada jugador te deberá dar un trago de su bebida.",
-      "intensidad": -1
+      "texto": "Con los ojos cerrados, debes adivinar de quien es la parte del cuerpo que tocas || 3",
+      "intensidad": 3
     },
     {
-      "texto": "Todos deben jugar una ronda con la boca de pez :O Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "Manda mensaje a tu ex || 4",
+      "intensidad": 2
     },
     {
-      "texto": "Todos deben jugar una ronda hablando para atrás (metiendo aire por la boca). Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "Debes mostrar tu último DM en instagram || 1",
+      "intensidad": 2
     },
     {
-      "texto": "Jubileo: Por una ronda, cada que alguien tome, todos le festejarán. Quien no lo haga, toma un trago.",
-      "intensidad": -1
+      "texto": "{{YO}} y {{OTRO}},  5 minutos en el paraíso con el de tu izquierda || 3",
+      "intensidad": 3
     },
     {
-      "texto": "A partir de ahora, te deberás referir a tí misma/o en tercera persona. Si te equivocas, tomas un trago.",
-      "intensidad": -1
+      "texto": "Quitate una prenda || 4",
+      "intensidad": 2
     },
     {
-      "texto": "¡Se fue la luz! Jueguen esta ronda a oscuras.",
-      "intensidad": -1
+      "texto": "Si tuvieras que casarte con {{OTRO}} , o {{OTRO}} , ¿a quién elegirías? || 3",
+      "intensidad": 3
     },
     {
-      "texto": "A partir de ahora, cada que la hora marque un múltiplo de 10 todos deben aplaudir. El último en aplaudir toma.",
-      "intensidad": -1
+      "texto": "¿Matas, coges o te casas? // Banco de jugadores o celebridades. || 2",
+      "intensidad": 3
     },
     {
-      "texto": "A partir de ahora, no podrás mirar a {{OTRO}} a los ojos. Si lo haces, tomas un trago.",
-      "intensidad": -1
+      "texto": "Tienes que dar la hora cada 5 min. Si se te olvida, tomas shot. || 1",
+      "intensidad": 1
     },
     {
-      "texto": "Unidos por la patria: Por una ronda, jueguen todos agarrados de la mano. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "Nombra 3 cosas que te hagan gemir || 2",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, ningún jugador puede decir \"yo\". Quien lo haga, toma un trago.",
-      "intensidad": -1
+      "texto": "Toma un trago de la bebida de {{OTRO}} || 4",
+      "intensidad": 1
     },
     {
-      "texto": "A partir de ahora, cada que alguien estornude, todos toman un trago.",
-      "intensidad": -1
+      "texto": "Come una cucharada de picante || 1",
+      "intensidad": 1
     },
     {
-      "texto": "A partir de ahora, si cantas sin querer, tomas un trago.",
-      "intensidad": -1
+      "texto": "Publica un estado de Instagram/ whatsapp vergonzoso || 1",
+      "intensidad": 1
     },
     {
-      "texto": "A partir de ahora no puedes mencionar a tu ex.",
-      "intensidad": -1
+      "texto": "Cambia tu foto de perfil de whats por una que eligan los jugadores, debes dejarla al menos 3 rondas. || 4",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, deberás llamar a {{OTRO}} \"MI CORAZÓN\". Si te equivocas, tomas un trago.",
-      "intensidad": -1
+      "texto": "Dale un beso a {{OTRO}} en la parte del cuerpo que prefieras || 4",
+      "intensidad": 3
     },
     {
-      "texto": "A partir de ahora, los demás te deberán llamar \"CUCHURRUMÍN\". Quien se equivoque, toma un trago.",
-      "intensidad": -1
+      "texto": "{{YO}} cambia una prenda con el {{OTRO}}. || 4",
+      "intensidad": 2
     },
     {
-      "texto": "Comunismo: Deberás compartir un poco de tu bebida con cada jugador.",
-      "intensidad": -1
+      "texto": "Muestra a quienes tienes en \"close friends\" || 1",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, todos se llamarán con sus nombres en diminutivo. Quien se equivoque toma un trago.",
-      "intensidad": -1
+      "texto": "Llamale a tu ex || 2",
+      "intensidad": 3
     },
     {
-      "texto": "Todos deben jugar una ronda con un ojo cerrado. Quien lo abra, toma un trago.",
-      "intensidad": -1
+      "texto": "Publica un estado de Instagram/ whatsapp llorando || 2",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, los demás te deberán llamar \"NENI\". Quien se equivoque, toma un trago.",
-      "intensidad": -1
+      "texto": "Ponerse un shot en la boca y pasarselo a otro jugador || 4",
+      "intensidad": 3
     },
     {
-      "texto": "A partir de ahora, deberás llamar a {{OTRO}} \"MI AMOR\". Si te equivocas, tomas un trago.",
-      "intensidad": -1
+      "texto": "{{YO}} y {{OTRO}} jueguen semana inglesa || 2",
+      "intensidad": 3
     },
     {
-      "texto": "Por una ronda, todos hablen en idioma \"f\". Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "beso de 3 entre, {{YO}}, {{OTRO}} y {{OTRO}}. || 4",
+      "intensidad": 3
     },
     {
-      "texto": "Por una ronda, todos tienen que hablar con la lengua de fuera. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "No parpadear durante 1 minuto || 2",
+      "intensidad": 1
     },
     {
-      "texto": "Solidarios: A partir de ahora, cada que alguien beba, bebe la persona a su izquierda.",
-      "intensidad": -1
+      "texto": "{{YO}} toma un body shot de {{OTRO}}. || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quitate la camisa || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "{{YO}} hazle un masaje a {{OTRO}} por 5 minutos || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "{{YO}} susurrale algo sucio a {{OTRO}}. || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{YO}} besa el cuello de {{OTRO}}. || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Besa a la persona que llevarias a una cita || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Menciona a la persona mas atractiva presente || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{YO}} besa al {{OTRO}} o a {{OTRO}} || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Intenta tomar 1 trago sin usar las manos || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quedate parado una ronda || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "No puedes tocar el suelo por una ronda || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "{{YO}} cambia tu bedida con {{OTRO}} || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Entre todos los jugadores te prepararan un trago secreto y deberas tomartelo  || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} suban una historia pidiendo algun consejo, toman por cada persona que les conteste. || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "A imitar a {{OTRO}}. || 4",
+      "intensidad": 2
     }
   ]
 }
