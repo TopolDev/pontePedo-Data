@@ -1,260 +1,812 @@
 {
   "preguntas": [
     {
-      "texto": "Sororidad: A partir de ahora, cada que una mujer beba, beben todas las mujeres.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Hermandad: A partir de ahora, cada que un hombre beba, beben todos los hombres.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, a menos que una carta lo solicite, no se puede hablar de desamores. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora no se puede hablar del trabajo. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora todos deben hablarse cariñosamente. Quien no lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora todos deben jugar con sus calcetines como guantes.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Se murió el rey. Nadie puede sonreír por una ronda. Quien lo haga, deberá gritar \"POR QUÉEEE?!\" dramáticamente para guardar las apariencias.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos deben jugar parados en un pie. Quien falle, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deben jugar con los codos recargados en la mesa. Quien los quite, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, nadie puede cruzarse de piernas ni brazos. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Todos los jugadores toman un trago de la bebida de la persona a su izquierda.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora, cada que te toque jugar da 5 vueltas sobre tu propio eje.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, cada que te toque jugar tendrás que decir algo lindo del jugador a tu derecha.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos jugarán sin usar sus pulgares. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos deben hablar sin usar la letra “a”. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos deben hablar sin usar la letra “e”. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos deben hablar sin usar la letra “i”. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Todos se ponen labial. Quien no desee hacerlo toma 5 tragos.",
-      "intensidad": 3
-    },
-    {
-      "texto": "A partir de ahora, ningún jugador puede tener contacto visual con otro. Quienes lo hagan, toman un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deben hacer contacto visual en todo momento con alguien. Quienes dejen de hacerlo, toman un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, los demás te deberán llamar \"SU MAJESTAD\". Quien se equivoque, deberá besar tu mano y tomar un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, cada que alguien diga un refrán que vaya con la plática, puede mandar a tomar a alguien más.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, cada que alguien cante una canción con algún tema que estén hablando, puede mandar a tomar a alguien más.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda nadie puede ver a la persona que más atractiva le parezca.",
+      "texto": "Mandale mensaje a un exprofesor. || 2",
       "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, todos hablen con la voz grave. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "{{OTRO}} hazle un tatuaje con pluma a {{YO}}. || 1",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, todos hablen con la voz aguda de ardillita. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "Mandale un mensaje a tu crush de secundaria || 2",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, todos hablen cantadito. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
+      "texto": "Recita el abecedario al revés  || 2",
+      "intensidad": 2
     },
     {
-      "texto": "A partir de ahora, todos tienen que moverse como robots. Quien falle, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deben hablar como borrachos. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deben hablar en diminutivo. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por los siguientes tres turnos, todos deben jugar sin parpadear. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "¡Silencio! Jueguen una ronda sin hacer ruido, a menos que el juego les pida hablar. Quien emita algún sonido, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, nadie se puede tocar la cara. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, nadie puede hacer contacto físico con nadie más. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, cada vez que alguien tome debe aplaudir. Quien no lo haga, toma dos tragos adicionales.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, cada que alguien tome debe hacer gestos de disgusto. Quien no lo haga, toma dos tragos adicionales.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, cada vez que alguien tome, antes deberá hacer un ruido de animal al terminar. Quien no lo haga, toma un trago adicional.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Jueguen una ronda en cuclillas. Quien se levante, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, jueguen con una mano en el pecho en todo momento. Quien la levante, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda, todos los jugadores entrelacen sus piernas con los jugadores de sus lados. Quien deje de hacerlo, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora,  a quien le lleguen notificaciones en el celular debe de tomar.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Amnistía: los jugadores que lleven más de 3 bebidas tomadas descansan y dejan de tomar por una ronda.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Jueguen una ronda de pie. Quien se siente, toma 3 tragos.",
-      "intensidad": -1
-    },
-    {
-      "texto": "La peste: Por una ronda, quienes interactuen contigo deberán mantener una muesca de asco. Si no lo hacen, se les contagia la peste por una ronda.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora, cada que tomes podrás tomar de cualquier trago, menos del tuyo.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora, cada que prepares un trago mandas a tomar a alguien más.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, quien se pare al baño toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, todos deberán caminar de lado como cangrejo. Quien no lo haga, toma dos tragos.",
-      "intensidad": -1
-    },
-    {
-      "texto": "Por una ronda,todos deben hablar con la lengua pegada al paladar. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, nadie puede usar su mano dominante. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, nadie puede tocar el piso. Quien lo haga, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, cada que tú tomes, {{OTRO}} toma también.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, cada que {{OTRO}} tome, tomas tú también.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, háblense por el nombre de su ciudad favorita. Quien se equivoque, toma un trago.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora, puedes pagar el no tomar haciendo 3 lagartijas,",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, háblense de usted entre todos. Quien se equivoque, toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, háblense con nombres de familia (hermano, tío, prima, sobrino, abuelo). Quien se equivoque, toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "A partir de ahora, háblense con el nombre de sus profesiones. Quien se equivoque, toma.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, cada que alguien se sirva un trago tienes que acompañarlo.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, cada que le tomes a tu trago tendrás que beber de manera sensual el trago. Con chupada y todo.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, a partir de ahora, intenta introducir la frase \"¿Cuántos más?\" de manera natural en la conversación. Si te cachan, tomas shot. Si nadie te cacha, repartes shot.",
-      "intensidad": -1
-    },
-    {
-      "texto": "{{YO}}, partir de ahora, intenta introducir la frase \"Pensé que me conocías mejor\" de manera natural en la conversación. Si te cachan, tomas shot. Si nadie te cacha, repartes shot.",
-      "intensidad": -1
-    },
-    {
-      "texto": "La mano del rey: A partir de ahora, si te toca tomar, {{OTRO}} deberá darte el trago en la boca.",
+      "texto": "Muestra una foto con tu ex || 3",
       "intensidad": 3
     },
     {
-      "texto": "Escudero: A partir de ahora, si te toca tomar,  {{OTRO}} deberá tomar en tu lugar.",
+      "texto": "Muestra una foto tuya que te de pena || 4",
       "intensidad": 2
+    },
+    {
+      "texto": "Grita el nombre de la persona que te gusta || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Haz 8 flexiones || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cuenta un secreto vergonzoso de tu vida amorosa || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Imita el sonido de 5 animales || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Imita un gemido || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Intercambia ropa con {{OTRO}} || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Deja que entre todos te hagan un tatuaje con pluma || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Come algo de {{OTRO}} de manera sensual. || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Comparte una fantasía sexual con lujo de detalle || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Besa a alguien del grupo por al menos 5 segundos || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Terminarte una caguama en un jalón || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Terminarte una media de cerveza de jalón  || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Mencionar un defecto de cada juagdor || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Recrea el paso de Anita || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Mete un dedo a tu nariz durante 1 ronda  || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Canta la cancion que {{OTRO}} te diga. || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Flasheale las nalgas a toda la fiesta || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Baila un cumbion durante 30 segundos || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Hazle un baile sexy a {{OTRO}} || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Hazle un striptease a {{OTRO}} || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Cambia tu outfit con ropa que tengan a la mano || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Muestra todas las apps que tengas en tu celular || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Recrea una posicion sexual con {{OTRO}} || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Besale la oreja a {{OTRO}} || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Tomate un shot del ombligo de {{OTRO}} || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{OTRO}} hazle cosquillas a {{YO}} por 30 segundos || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Tienes que sudar antes de la siguiente ronda, si no lo logras tomas.  || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Actua un orgasmo || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Actua como un animal por una ronda || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tararea una cancion, quien adivine la cancion manda a tomar || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Baila el payaso de rodeo correctamente para no tomar || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}} lame la axila de {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Dejate hacer una trensa o cambia tu peinado || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Imita el ruido de un pedo  || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Gira tu lengua para ambos lados, si no lo logras tomas || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Llena tu vaso a tope y por una ronda, solo vas a tomar como perrito. || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Nadie puede usar su celular por una ronda || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}} muerdele una pompa a {{OTRO}} || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Mira a la persona que se te haga más atractiva y dile un cumplido real || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Marcale a un amig@ y pídele dinero prestado || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Imita a una celebridad hasta que alguien adivine de quien se trata || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di quien es la persona más tóxica de los presentes y por qué || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di el nombre de tus 3 grupos principales en whatsapp || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}} juega 1 ronda agarrandole la mano a {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Embarrate algo dulce y comestible en una mano y lamela hasta que quede limpia || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Enseña tus calzones a la fiesta || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "has duelo de miradas con {{OTRO}} || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Baila al ritmo de los que la fiesta te cante.  || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Mandale un mensaje a tu jef@ queriendo organizar una salida para pistear || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Mandale un \"Hola\" a tu crush. || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Sube una foto/mesnaje hot candente a tu close friends.  || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Tomate una turbo chela || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tomate tu cuba con un reversaso || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Toma de una botalla con la tecnica del escorpion.  || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Con quien del grupo crees que tendrias mas problemas siendo pareja || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Has 8 lagartijas || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Has 8 abdominales || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "has 16 desplantes || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "has 10 saltos de tijera || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di un piropo. || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di un trabalenguas || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di un albur (chiste de doble sentido) || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Muestranos una habilidad extraña que puedas hacer, entre todos votan, si no es tan extraño, tomas || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Parate de manos || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Sientate en algo mas alto que una silla || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di el nombre completo de {{OTRO}} || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tienes 1 minuto para esconderte, y {{OTRO}} tiene 1 minuto para encontrarte, si te encuentran tomas.  || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canta una cancion en Karaoke || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Carga a {{OTRO}} || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Que {{OTRO}} te cargue || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Habla en otro idioma por un turno (si no sabes inventalo) || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Crea un chisme de {{OTRO}} || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Ponte un hielo en el pantalon hasta que la marca de agua se vea.  || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Quedate descalso  || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Huele los pies de {{OTRO}} || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Lame el pie de {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Chupa sensualmente los pies de {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{OTRO}} se pone 1 limon en la boca y {{YO}} tiene que tomarse un shot y robarle el limon con la boca. || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Enumera a todos los de la fiesta empezando con quien te cae mejor, terminando con quien peor te caiga || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Mojate con abundante agua la cara o el cabello.  || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Derrite un hielo en tu boca || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Intenta chatear con un numero desconocido. || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Ponte algo que este en la mesa de sombrero || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Siempre que hables tendras que hacerlo a {{OTRO}} (no le puedes hablar a nadie mas) || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Comparte algun comida boca a boca con {{OTRO}} || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Baila pegadito con {{OTRO}} || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Masajea los pies de {{OTRO}} || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Habla como una persona de muy alto nivel social. || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Imita el acento de otro pais, los demas deciden si toma depende que tan bien lo hizo || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Sientate en el suelo una ronda || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Ve la parte del cuerpo que mas te guste de {{OTRO}} || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Pon una cancion, todos en la fiesta se deben saber la letra, si no, tomas. || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tienes 2 rondas para asutar a alguien en la fiesta. si no lo logras, tomas || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Has una pose de yoga || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Resita la tabla del  7 (si solo la hablas tomas) || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Te sirven un alcohol secreto y tienes que adivinar que tomaste. si no adivinas tomas otro trago || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Ponte coquet@ con todos en la mesa por una ronda || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Ponte en 4 por una ronda, alguien te tendra que ayudar a tomar.  || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Actua un deporte, el primero en adivinar manda a tomar || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Actua una pelicula, el primero en adivinar manda a tomar || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Imita a una persona del grupo, el primero en adivinar manda a tomar || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Susurrale al oido a {{OTRO}} quien de los presentes se te hace el mejor partido || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Bañate con {{OTRO}} || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Beso de 4 entre, {{YO}}, {{OTRO}}, {{OTRO}} y {{OTRO}} || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Gira una botella, a quien señale la botella te tocara besar || 2",
+      "intensidad": 3
+    },
+    {
+      "texto": "Que {{OTRO}} te bese y tendras que besar a {{OTRO}} de la misma manera. || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} actuen eroticamente entre ustedes con un juego de rol (medico/pasiente, maestra/alumno, 50 sombras de grey) || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Acaricia los labios de {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Dale 3 besos a {{OTRO}} cada uno mas intenso que el anterior || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "{{OTRO}} se embarrara chocolate en alguna parte de su torso y {{YO}} tendra que acabarse todo el chocolate || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Juega una ronda con las manos en tu espalda, alguien tendra que ayudarte a tomar. || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "Di la caracteristica mas atractiva de cada persona en la fiesta || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Juega una ronda con la cara chueca || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Juega una ronda en las piernas del {{OTRO}} || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Llena tus cachetes de comida y quedate asi una ronda || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Besa la persona mas grande del grupo || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Depílate una parte de la pierna || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Deja que cada jugador te pinte algo en la cara || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Deja que te arrojen medio vaso de agua en la cara || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Muerde una cebolla || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "Muerde un chile || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Abre una cerveza de una forma no convencional || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Deletrea la palabra \"ferrocarril\" de atras para adelante || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Huelele la axila a {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Juega con tu trago en la mano por una ronda || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Llena tu vaso, tienes una ronda para acabartelo || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cada jugador decidira si te besan o no, tendras que tomar un trago por cada persona que no te bese || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Juega una ronda incado  || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Corta 2 cm de tu cabello || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Aguanta la respiración durante 1 min. || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Envía un mensaje diciendo \"Tenemos que hablar\" a la última perosona que te escribió  || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Besa el cuello del jugador que el grupo elija || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Envía un emoji sexy a tu última conversación de whats o instragram || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Haz una pose de portada de revista erótica (sin desnudo) || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Muestra tu historial de emojis más usados || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Simula tu primer beso con algún objeto || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Publica un estado donde uses una palabra que elegirán los del grupo || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Manten tu lengua de fuera por una ronda || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona tres personas del grupo con quien sí tendrías una cita || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Di una verdad que hayas ocultado en una relación || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Describe cual fue tu mejor o peor beso pero sin decir con quien fue || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Haz una pregunta hot al grupo y tú debes responder al final || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Da un beso de \"piquito\" a todos los del grupo  || 4",
+      "intensidad": 3
+    },
+    {
+      "texto": "Dale una nalgada a la persona que esta a tu derecha || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Pasa un trago de una bebida a otra persona de boca a boca || 3",
+      "intensidad": 3
+    },
+    {
+      "texto": "Di 3 cosas que harías por dinero y 1 gratis || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Come una cucharada de azúcar || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Durante 5 segundos debes recibir \"pamba\" de todos (un leve golpe en la cabeza u otra parte del cuerpo) || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Manda una selfie a un chat sin decir nada || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Asomarte a la calle y gritar \"chelas gratis en mi casa\" || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "Intenta juntar tus palmas por detras de tu espalda || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Deja que te hagan cosquillas durante 30 segundos || 1",
+      "intensidad": 1
+    },
+    {
+      "texto": "Intenta llorar hasta sacar una lágrima frente a todos || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "No dejes de sonreír durante una ronda || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Eructa || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Reproduce una canción que te guste en secreto por ser muy rara || 3",
+      "intensidad": 1
+    },
+    {
+      "texto": "Publica una nota con canción en instagram y deja que los demás decidan que canción será || 3",
+      "intensidad": 2
+    },
+    {
+      "texto": "Vierte tu bebida en algo que no sea un vaso, el grupo elije que, toma de ahi. || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "Ponte un caballito a presión en los labios durante 1 minuto o hasta que tus labios se ensanchen  || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Deja que {{OTRO}} te de un beso || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Estira tus brazos hacia arriba de tu cabeza y mantenlos ahí durante una ronda || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Inclina tu cabeza hacia atrás durante una ronda || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tocar tu cara con tu pie || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} juntes sus cachetes por 30 segundos.  || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} dense un beso esquimal.  || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Juega una ronda con los ojos cerrados || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tu siguiente bebida preparatela con otro tipo de alcohol || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Juega recargado de {{OTRO}} por una ronda || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Dile a tu 3er @ en insta que antes tenias un crush con el/ella || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Abrigate con lo primero que encuentres.  || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Ponle cafe soluble a tu bebida o una bolsita de té.  || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "cierra los ojos y di el color de uñas de todos los jugadores, si fallas tomas.  || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Di el cumpleaños de cada jugador, los que digas bien toman, los que no sepas tomas tu. || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Quitate 2 prendas, no te las podras volver a poner por el resto de la noche || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cada que vayas al baño te tendra que acompañar el {{OTRO}} || 4",
+      "intensidad": 2
+    },
+    {
+      "texto": "{{OTRO}} tomara la cantidad de tragos que te quiera hacer tomar. || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Bebe un trago por cada persona con quien tendrías un faje de los presentes || 1",
+      "intensidad": 2
+    },
+    {
+      "texto": "Comete un huevo crudo || 4",
+      "intensidad": 1
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} se ponen un hielo en la mano y cierran el puño es primero en soltarlo pierde y toma. || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Quien se ria primero toma || 2",
+      "intensidad": 1
+    },
+    {
+      "texto": "Voltea a ver el techo y adivina el color del piso || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Cierra los ojos y adivina cuántos cuadros hay en las paredes || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Besa la nuca de {{OTRO}} || 2",
+      "intensidad": 2
+    },
+    {
+      "texto": "No puedes hablar por un turno. || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Quitate los calcetines, si no traes, quitate el calzon.  || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Rapea algo mientras que {{OTRO}} hace beatbox || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "Habla en idioma alienigena por 1 turno || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Imita a un reptil por un turno || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Cuentanos una adivinansa que nadie se sepa, si alguien la sabe tomas.  || 3",
+      "intensidad": 0
+    },
+    {
+      "texto": "Cuentanos un chiste que nadie se sepa, si alguien se lo sabe tomas.  || 1",
+      "intensidad": 0
+    },
+    {
+      "texto": "Recrea alguna escena de alguna pelicula, quien adivine manda a tomar || 2",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}} y {{OTRO}} jueguen piedra papel o tijera, mejor de 3, quien pierda toma || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Escribele a esa persona que sospechas que le gustas.  || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Actua como un gato por una ronda || 4",
+      "intensidad": 0
+    },
+    {
+      "texto": "Quitate la cantidad de prendas que quieras que alguien tome ese mismo numero de shots. || 1",
+      "intensidad": 3
+    },
+    {
+      "texto": "Enseña todo lo que traigas contigo, en tu bolsa, cartera, bolsillos. || 2",
+      "intensidad": 0
     }
   ]
 }
