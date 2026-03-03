@@ -1,0 +1,1236 @@
+{
+  "preguntas": [
+    {
+      "texto": "Yo nunca nunca me he puesto malacopa.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me fui de pinta.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me robé el cambio de las tortillas.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he visto un k-drama.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he llorado hasta quedar dormido.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he quedado dormido a media peda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he esperado por más de 30 min. a alguien.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he llorado en una peda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he probado jabón.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he experimentado una cruda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he mandado indirectas en un yo nunca nunca.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he dicho que no vuelvo a tomar después de una peda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he quedado con algo que pedí prestado.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he pedido monedas para completar mi pasaje.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he estado en un slam.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he escondido de un cliente.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he peleado con un cliente.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he hablado en efe.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he perdido un vuelo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he dicho que estoy llegando cuando ni siquiera he salido de casa.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he me he tragado un chicle por accidente.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he salido a la calle descalzo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he discutido con un desconocido por internet.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he comido algo que se cayó al suelo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he ido disfrazado a la premier de una película .",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he terminado una peda en la playa.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he quedado primer lugar en un concurso.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he olvidado dónde estacioné el carro.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he terminado una pizza yo solo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he manejado una motocicleta.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he visto una estrella fugaz.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he puesto a ver caricaturas para olvidar que tenía miedo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he hecho un cosplay.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca saqué promedio arriba de 9.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca saqué promedio de 7.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca reprobé alguna materia.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me dormí en el transporte público.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me dormí en el Uber.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca olvidé las llaves de mi casa.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me encontré dinero tirado en la calle.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca sentí que me cayó pesado comer sandía.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he ido a terapia.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he acampado.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he soñado con salir de la Tierra.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he cantado en un karaoke.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he adopado alguna mascota.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un pez de mascota y se me murió.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he mordido a mi mascota.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he curado la cruda con una cerveza.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tomado más de 3 diferentes alcoholes en una misma borrachera.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he practicado ligar frente al espejo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he competido en un concurso de baile.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he embriagado solo.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he puesto canciones de caricaturas o películas animadas en la peda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca jugué Age of Empires.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca jugué en un Pump it up.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca tuve un tamagotchi.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he usado una peluca.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he disfrazado.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca perdí más de 1hr. en TikTok.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca creí que era real un video hecho por IA.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he perdido mi cartera en una peda.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he peleado en público.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he regalado algo que me regalaron.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me subí a una moto sin usar casco.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he iniciado una pelea.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he trabajado con computadora.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido alguna alergia.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido asco por algún tipo de alcohol.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca le quité el lunch a un amigo en la escuela.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca competido en torneos deportivos.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he dedicado una canción.",
+      "intensidad": 1
+    },
+    {
+      "texto": "A mi nunca nunca me han dedicado una canción.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he llorado con una canción.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido que hacer del baño en un lugar que no sea un baño.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he ido a más de tres bares en una noche.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido una experiencia paranormal.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he tirado un pedo y le he echado la culpa a alguien.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca me he desilucionado después de por fin hablar con mi crush.",
+      "intensidad": 1
+    },
+    {
+      "texto": "Yo nunca nunca he tenido una erección involuntaria en público.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he coqueteado con un chofer de plataforma.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he ido a que me lean el tarot.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he orinado en una piscina.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he robado un beso.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tomado en horario laboral.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he mentido en mi CV.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he ido a trabajar \"en vivo\".",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he besado a la pareja de mi mejor amigo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he he conducido ebrio.",
+      "intensidad": 2
+    },
+    {
+      "texto": "A mí nunca nunca me han robado un beso.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido una cita doble.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he roto el lavabo en la peda.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dado mal mi número a alguien que quiere coquetear.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tendido una cita por medio de Tinder.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he tatuado en la peda.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he terminado en el torito.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he robado.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sido malacopa.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he estado en una relación tóxica.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dormido desnudo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he llorado por alguien",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he besado a un hombre.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he besado a una mujer.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he utilizado el cepillo de dientes de alguien más.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he satalkeado el perfil de un ex.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he fumado marihuana.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he jugado con la ouija.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he participado en una pelea.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dado un beso de tres.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he bebido aguas locas.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he mezclado acohol con drogas.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he echado una turbochela .",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he chocado.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sido sacado del antro por pelear.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he terminado en una peda con desconocidos.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dado una nalgada.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido novio/a.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he revisado el teléfono de alguna pareja.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he terminado una botella de alcohol solo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he escapado de mi casa.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he bebido hasta perder el conocimiento.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca le he escrito a mi ex estando borracho.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca le he hablado a mi crush primero.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dicho un te amo sin sentirlo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dado una cachetada a alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he salido con alguien por una apuesta.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he regresado con un ex.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he vendido fotos de mis pies.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo en el lugar de trabajo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo con alguien 5 años mayor o más.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido una cita a ciegas.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he enamorado de un profe.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he comprado en una sex shop.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he mandado nudes.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he sentido atraido por el padre o madre de un amigo o amiga.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pasado más de 6 meses sin tener sexo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he besado con mi jefe.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he besado a 3 o más personas en una noche.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pintado un pito a alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he aventado huevos a la casa de alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he trasvestido.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he medido mi pene.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he medido las boobies.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he roto un corazón.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido lagunas mentales.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he juzgado a alguien por su físico.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he visto involucrado en un triángulo amoroso.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he salido en plan romántico con un profe.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dado un beso de tres.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he olvidado el cumpleaños de mis padres.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he insultado a un maestro.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sido parte de una revolución escolar.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he llegado de una peda despertando a los vecinos.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he perreado cuando estoy borracho.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he besado a un payaso.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pasado la noche en algún espacio público.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he ayudado a alguien por sentirme culpable.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sobornado a un policía.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pegado un chicle en el cabello de alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he bailado con alguien por una bebida.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he bebido de a gratis en una peda.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he mentido jugando un yo nunca nunca.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he estado en la friendzone.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he dejado a alguien en la friendzone.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he terminado con alguien por mensaje de texto.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sido cachado por la persona de quien estaba hablando mal.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he hecho una escena de celos en público.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he coqueteado con alguien para poner celoso a alguien más.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido diarrea en el trabajo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he tirado un pedo que todo mundo escuchó.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he robado dinero de la bolsa de mi mamá.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he jugado un juego japonés de citas.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un crush con un personaje de anime.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca fui a una fiesta durante pandemia.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he besado con alguien aquí presente.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he sentido amor por alguien aquí presente.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me enamoré de un desconocido.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pensado que me abdujeron.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido alguna experiencia paranormal.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido algún accidente de tráfico.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido cruda moral.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo con alguien que conocí ese mismo día.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he comprado un juguete sexual.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca usado ChatGPT para ligar.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he mandado indirectas en historias de Instagram.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he invitado a alguien más a un multinivel.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca le he tomado screenshots a las historias de mu crush.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca miré perfiles subidos de tono sexual.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he fantaseado con un amigo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he fantaseado con algún profesor.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he seguido a alguien para espiarle.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca escondí a alguien en mi casa.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he comprado lencería.",
+      "intensidad": 2
+    },
+    {
+      "texto": "A mí nunca nunca me han hecho alguna cirugía.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he peleado con alguien de mi familia.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he visto porno.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he defendido a una celebridad en redes sociales.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he pensado en hacerme una cirugía plástica.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he tatuado el nombre de un \"amor\".",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he estado en buró de crédito.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he escabullido en la casa de alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he apostado una gran cantidad y la he perdido.",
+      "intensidad": 2
+    },
+    {
+      "texto": "A mí nunca nunca me han engañado con mi hermana o hermano.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca le he bajado la pareja a alguien.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he ilusionado con un \"casi algo\"",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he equivocado de nombre en una relación.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he visto a un amigo desnudo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he perdido mi ropa interior en una peda.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca me he metido al mar desnudo.",
+      "intensidad": 2
+    },
+    {
+      "texto": "Yo nunca nunca he tomado PrEP.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tomado la píldora del siguiente día.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he dejado lamer el cuerpo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca recibí algo a cambio de sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hecho juego de roles.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fantaseado con alguien aquí presente.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fantaseado con algún compañero del trabajo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fantaseado con algún familiar.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he visto porno acompañado.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he atado a alguien en la cama.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han atado en la cama.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he practicado shibari.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he dado un beso del payaso.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he dado un beso negro o lavado de cazuela.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han dado un beso negro o lavado de cazuela.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he experimentado con comida en el sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he experimentado con alcohol en el sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo estando marihuano.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido más de 5 palos en un mismo día.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he presensiado que un pene no se ponga duro antes de tener sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he presenciado que un condón se rompa.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he presenciado un squirt o eyaculación femenina.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he usado poppers.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he usado una tanga.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo con el ex de un amigo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he pensado en alguien más mientras tengo sexo con alguien.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he sido el/la amante de alguien.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he besado a alguien del mismo sexo por curiosidad.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un trío.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo en un espacio público.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo en un sauna.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fingido un orgasmo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he jugado ruleta rusa.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he ido a un prostíbulo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he pagado por un privado.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he pagado por sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he pagado por Onlyfans.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he caído preso.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he cogido con audiencia.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he descubierto una infidelidad.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he perdonado una infidelidad.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he sido infiel.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido sexo anal.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tomado alucinógenos.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he pasado la noche con alguien de aquí.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fajado en un cine.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un free.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he modelado desnudo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he consumido drogas mas fuertes que la marihuana.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he cogido con alguien que tenga un disfraz.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he ligado con una inteligencia artificial.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hecho un TitFuck (una rusa).",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hecho un beso blanco (snowballing).",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he comido semen.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he llegado al squirt.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he besado con alguien trans.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he puesto un disfraz para coger.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca hecho el delicioso en el cine.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he \"engarrotado\" durante el delicioso.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he quedado dormido durante el delicioso.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hecho un baile sexy.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he olido la ropa interior de mi pareja.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he olido la ropa interior de un crush.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fajado en el baño de un antro.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he atropellado a alguien.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he amanecido con un desconocido.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un sugar.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he sentido atraído por alguien aquí presente.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca se me ha roto el condón.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he lamido pies.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he encontrado atractivo a un familiar.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he recibido lluvia dorada.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he dado lluvia dorada.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hecho sounding.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he participado en pegging.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he chupado pezones.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han chupado los pezones.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he dado un oral.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han hecho un oral.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he hablado sucio durante el sexo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han hablado sucio en la cama.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me han nalgueado en la cama.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he masturbado viendo las fotos de un amigo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca le he hecho edging a mi pareja.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tocado a mi pareja por debajo de la mesa.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un accidente durante un beso negro.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he tenido un accidente durante el delicioso.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he controlado el vibrador de mi pareja en un lugar público.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he usado un vibrador en un lugar público.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca me he masturbado con el asiento de la bicicleta.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he probado el esmegma.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he usado algo que no fuera un dildo como dildo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he sido ignorado durante un trío.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he participado en masturbación en grupo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he fajado frente a otras personas.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he mentido sobre mi sexualidad.",
+      "intensidad": 3
+    },
+    {
+      "texto": "A mí nunca nunca me ha caído semen en el ojo.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he intentado lamer mis propios genitales.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Yo nunca nunca he intentardo lamerme una boobie.",
+      "intensidad": 3
+    }
+  ]
+}
