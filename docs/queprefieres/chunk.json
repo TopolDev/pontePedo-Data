@@ -1,0 +1,736 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Prefieres pueblo o ciudad?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ser policía o ser bombero?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres café o té?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comida nacional o internacional?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres salida de amigos o citas con tu pareja?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres los tatuajes o los piercings?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres poder volar o poder teletransportarte?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener telequinesis o súper velocidad?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres lo vivido en la prepa o lo vivido en la uni?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener súper inteligencia o súper fuerza?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hamburguesas o hotdogs?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres actividades extremas o tranquilas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comer o dormir?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hacer un viaje planeado o improvisado?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres competencias físicas o mentales?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres viajar al pasado o al futuro?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres perder la vista o el oido?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres perder el gusto o el líbido?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres saber bailar muy bien o saber cantar muy bien?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hablar con los animales o con las plantas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres la navidad o el año nuevo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dar regalos o recibirlos?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres noche de baile o noche de karaoke?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres la nieve o la arena?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres canada o estados unidos?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres sushi o alitas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener una boda grande o una boda chica?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres salir con amigos o que tus amigos vayan a tu casa?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener el mal hábito de morderte las uñas o de morderte los labios?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres la mitologia nordica o la griega?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ver series o peliculas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres el romance o la aventura?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres mar o alberca?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vestir formal o vestir casual?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres lentes con armason o pupilentes?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hacer origami o pintar mandalas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres juegos de mesa o video juegos? ",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres convertirte en un perro o convertirte en un gato ?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres libros o comics?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres caricaturas americanas o animes? ",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un mundo de steampunk o de cyberpunk?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres los colores o el blanco y negro?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres rosas o margaritas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres el cafe negro o con leche?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres acampar o escalar una montaña?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres convertirte en un pinguino o una tortuga?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres la musica de atras de los 2000´s o despues de los 2000´s?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres los amaneceres o los atardeceres?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres el sonido del bosque o el sonido del mar?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres viajar al espacio o a una civilizacion antigua sin descubrir?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres jugar escondidas o las traes?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un rascacielos o bajo tierra?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hospedarte en un hotel o en un Airbnb?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres cocinar o ir a un restaruante?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hacer las cosas rápidas o lentas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comunicarte por llamada o por mensaje?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ir a un parque o a una cafetería?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres arriba o abajo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres besar o que te besen?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres muchos mensajes de texto cortos o un solo mensaje largo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres mensajes de texto o notas de voz? ",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres siempre tener que levantarte a las 6 am o siempre tener que dormirte a las 2 am?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres películas de acción o comedias románticas? ",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres la pintura o la literatura?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dejar tu dinero en un banco o debajo del colchón?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres un día soleado o un día lluvioso?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres limonada o naranjada?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres esperar a que llegue tu cita o que tu cita te espere?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres un helado de fresa o de vainilla?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ir al cine o ver películas en casa?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres pasar tiempo a solas o con amigos?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres intentar arreglar algo que no sabes cómo funciona o llamar a un especialista?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres cargar dinero en efectivo o en tu tarjeta?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres levantarte a la primer alarma o tener 10 alarmas seguidas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres el boliche o el billar?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres Mario Bros o Sonic?",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cuando estás perdido ¿Prefieres preguntar por indicaciones o resolverlo tú solo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres papas a la francesa o papas gajo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dibujar o pintar?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres Minecraft o Roblox?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres juegos de azar o de estrategia?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un lugar caluroso sin aire acondicionado o en un lugar muy frío sin calefacción?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres pasar una tarde con Lionel Messi o con Cristiano Ronaldo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres conocer a tu streamer/youtuber favorito o a tu músico favorito?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ganar un juego de Mr. Beast o ganar la lotería?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres usar un perfume/loción con aroma a pollo frito o a pastel de vainilla?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener el poder de controlar el clima o tener el poder de teletransportarte?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que te regalen la casa de tus sueños o recibir 100,000 en efectivo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres pasar un día entero con la camisa empapada de sudor o con un mosquito zumbándote en la oreja?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres usar un disfraz de botarga del Dr. Simi por un día o que tengas hipo durante todo un día?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comer un algodón de azúcar con sabor a ajo o comer un chile habanero sin poder tomar agua?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que tu voz suene como la de un minion o como la de Doris, la hermanastra fea de Shrek?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dejar de ver tu reflejo en los espejos o nunca volver a maquillarte?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres recibir una dotación de chocolates x un año o una dotación de pizzas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres salir con los ojos cerrados cada vez que te tomen una foto o que salir en todas las fotos con la misma ropa?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comer alimento para mascotas o comida normal pero cruda?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un mundo donde existan los dragones o los dinosaurios?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres masticar chicle sin sabor o beber cerveza caliente?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener que usar la misma ropa durante un mes o comer la misma comida durante un mes?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que todo lo que comas tenga salsa valentina o que todo tenga mayonesa?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres bailar en la mesa de un restaurante o tener que acabarte una botella de alcohol tú solo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que se publique una foto tuya durmiendo con la boca abierta o tener que ir a trabajar un sábado?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dejar de ver Youtube o dejar de ver Netflix?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un mundo sin chocolate o en un mundo sin refrescos?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres morderte la lengua o pegarte en el dedo del pie?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres nunca sentir calor o recibir dinero cada que estornudes?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres recibir regalos sorpresa durante un año o comer en cualquier restaurante gratis por un año?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres perder tu cartera o perder tu teléfono?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres recibir pases VIP para el concierto que quieras durante un año o un año de vacaciones pagadas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres quedarte sin Internet por un año o sin móvil por un año?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres no tener amigos o no tener pareja?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener una pareja inteligente o una pareja divertida?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ir al trabajo en pijama o vestido de payaso?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener una experiencia paranormal o una experincia ovni?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres perder tu memoria a corto plazo o tu memoria a largo plazo?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres amputarte la mano o una pierna?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres no tener sexo jamás en tu vida o no volver a comer tu comida favorita?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener piojos por el resto de tu vida o tener acné por el resto de tu vida? ",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres que se publique un libro de tu última relación o una película?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres recibir siempre regalos que no te gustan o nunca recibir ningún regalo?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres amar intensamente a alguien aunque duela o mantenerte al margen para evitar el dolor?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres un amor apasionado pero inestable o una relación tranquila pero sin chispa?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres perder un dedo o perder una oreja?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres quedarte mudo o quedarte ciego?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres no usar ropa interior o que sólo puedas utilizar tangas?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres pasar una semana sin lavarte la boca o una semana sin bañarte?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener una cena con el presidente Donald Trump o con el ex presidente López Obrador?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres vivir con poco dinero pero con amor, o millonario sin amor?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres un mundo muriendo por calor o muriendo por frío?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres un mundo muriendo por zombies o por aliens?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres morir en un terremoto o en un tsunami?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres poder hablar con fantasmas o tener contacto con aliens?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres no tener rodillas o no tener codos?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener un encuentro con tu crush pero que nadie te crea o que todos piensen que tuviste un encuentro con tu crush pero nunca pasó?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres perder un diente o que te rapen?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres terminar una relación o que te terminen?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres robar un banco o secuestrar al presidente?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tratar de resolver el problema en el calor del momento o tomarte un tiempo para relajarte y luego hablarlo?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres nadar con tiburones o con cocodrilos?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres compartir tus problemas o guardártelos?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres quedarte calvo o perder los dientes incisivos frontales?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener un brazo más largo que otro o una pierna más larga que otra?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres trabajar o ser mantenido?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener migraña cada fin de semana o tener insomnio entre semana?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres ser el mejor en lo que odias o ser el peor en lo que amas?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres convertir el agua en vino o convertir caca en dinero?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres comer un plato de insectos o tomar un vaso de leche cortada?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres besar a alguien que no se ha lavado los dientes en un año o lamer el asiento de un baño público?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres comer una cucharada de mayonesa o tener que usar ropa interior mojada?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres lucir 10 años más joven o que te regalen un automóvil?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres nunca tener deudas o nunca poderte enfermar?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres que todos vean tu historial de búsqueda en internet o que vean tus chats de Whatsapp?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres salvar a tu mejor amigo o a tu pareja de un accidente?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres perder la capacidad para sentir placer o perder la capacidad de sentir amor?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres compartir departamiento con un grupo de viejitos o con un grupo de bebés?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tatuarte el nombre de un ex o tu nombre con errores ortográficos?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres tener mal aliento o que tu pareja tenga mal aliento?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres ser la persona más bonita del mundo o la más inteligente del mundo?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres poder viajar al pasado o comer sin engordar el resto de tu vida?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres que nadie se presente a tu boda o nadie se presente en tu funeral?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres escuchar a un bebé llorar por 2 hrs. o que tengas comezón y no te puedas rascar por 2hrs?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres ser mordido por un perro o que te piquen muchas abejas?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres siempre tener hambre o siempre tener sed?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres vivir en un mundo donde los animales gobiernen o donde los robots gobiernen?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres pasar preso 5 años o repetir la escuela 10 años?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres participar en los juegos del calamar o los juegos del hambre?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres casarte con un desconocido o con alguien que conoces pero te cae mal?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres ser perseguido por un asesino serial o ser raptado por una secta?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres ser devorado por una anconda o por un cocodrilo?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres lamer una manija de puerta de baño público o lamer la suela de un zapato que ha pisado la calle todo el día?",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Prefieres meterte una piña en el ano o dar a luz uvas por la uretra?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres ver a alguien teniendo sexo o que te vean teniendo sexo?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres una rata en el culo o un cangrejo en los huevos?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres besar a tu prima/primo o que tu pareja se coja a tu prima/primo?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres que te vean desnudo tus compañeros del trabajo o tus familiares?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres quedarte atascado en un elevador con tu ex o con Donald Trump?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres que te graben teniendo sexo y suban el video o tener sexo en público?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres dominar o que te dominen?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres morir ahogado o morir quemado?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres tener huevos en la nuca o una vagina en la garganta?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres duro o suave?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres que tus padres te cachen teniendo sexo o tú cacharlos teniendo sexo?",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres estar 10 años en la cárcel o que tu abuela esté 2 años en la cárcel?",
+      "intensidad": 3
+    }
+  ]
+}

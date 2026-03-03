@@ -1,0 +1,164 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Team frío o team calor?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres adoptar un perro o un gato?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir en un zoológico o vivir en un parque de diversiones?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ser protagonista en una telenovela mexicana o ser un actor de reparto en una película internacional?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres pedir perdón o pedir permiso?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ser políglota pero sin poder salir de tu país o poder viajar pero que sólo puedas comunicarte cantando en tu lengua materna?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres comer pizza de cualquier tipo siempre con piña o pizza de cualquier tipo siempre sin queso? ",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres volver a tu infancia o llegar a tu vejez siendo millonario?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres belleza o salud?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ser inteligente pero feo o tonto pero atractivo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que nunca haya existido Mario bros. o Pokemon?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres un mundo sin música o un mundo sin internet?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres convertirte en un vampiro o en un zombie?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que tu comida siempre esté fría o siempre esté caliente pero insípida?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener la capacidad de respirar bajo el agua o de respirar en el espacio?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que tu café esté siempre demasiado caliente o demasiado frío?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres vivir donde las 24 hr.s del día siempre haya sol o donde siempre sea de noche?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres quedar atrapado en una tormenta de nieve o en un huracán?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres música en español o en inglés?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres nadar con tiburones o con orcas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres utilizar emojis o stickers?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres mensajes de texto o videollamadas?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres hospedarte en un hotel lujoso o acampar en el bosque?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ser el centro de atención o pasar desapercibido?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ver 100 veces Harry Potter o El Señor de los Anillos?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres pasar la noche en un cementerio o pasar la noche en una casa embrujada?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres ver un amanecer o ver un atardecer?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres trabajar 4 días a la semana o trabajar 6 con un horario de  5hrs. x día?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres escuchar por el resto de tu vida sólo una canción o poder escuchar todas pero que se corten a la mitad?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres que tu ropa siempre te quede dos tallas más holgada o que siempre esté ajustada?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres tener que caminar de espaldas o andar brincando todo el tiempo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres por el resto de tu vida usar shorts o usar sandalias?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres playa o montaña?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres fogata o alberca?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres fútbol o voley?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres nadar o correr?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres dulce o salado?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres naufragar o viajar a un universo paralelo?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres día de picnic o noche de antro?",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Prefieres drama o comedia?",
+      "intensidad": 1
+    }
+  ]
+}
