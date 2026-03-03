@@ -1,0 +1,260 @@
+{
+  "preguntas": [
+    {
+      "texto": "Sororidad: A partir de ahora, cada que una mujer beba, beben todas las mujeres.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Hermandad: A partir de ahora, cada que un hombre beba, beben todos los hombres.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, a menos que una carta lo solicite, no se puede hablar de desamores. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora no se puede hablar del trabajo. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora todos deben hablarse cariñosamente. Quien no lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora todos deben jugar con sus calcetines como guantes.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Se murió el rey. Nadie puede sonreír por una ronda. Quien lo haga, deberá gritar \"POR QUÉEEE?!\" dramáticamente para guardar las apariencias.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, todos deben jugar parados en un pie. Quien falle, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos deben jugar con los codos recargados en la mesa. Quien los quite, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, nadie puede cruzarse de piernas ni brazos. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Todos los jugadores toman un trago de la bebida de la persona a su izquierda.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, a partir de ahora, cada que te toque jugar da 5 vueltas sobre tu propio eje.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, cada que te toque jugar tendrás que decir algo lindo del jugador a tu derecha.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos jugarán sin usar sus pulgares. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, todos deben hablar sin usar la letra “a”. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, todos deben hablar sin usar la letra “e”. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, todos deben hablar sin usar la letra “i”. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Todos se ponen labial. Quien no desee hacerlo toma 5 tragos.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, ningún jugador puede tener contacto visual con otro. Quienes lo hagan, toman un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos deben hacer contacto visual en todo momento con alguien. Quienes dejen de hacerlo, toman un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, los demás te deberán llamar \"SU MAJESTAD\". Quien se equivoque, deberá besar tu mano y tomar un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, cada que alguien diga un refrán que vaya con la plática, puede mandar a tomar a alguien más.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, cada que alguien cante una canción con algún tema que estén hablando, puede mandar a tomar a alguien más.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda nadie puede ver a la persona que más atractiva le parezca.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos hablen con la voz grave. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos hablen con la voz aguda de ardillita. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos hablen cantadito. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos tienen que moverse como robots. Quien falle, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos deben hablar como borrachos. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos deben hablar en diminutivo. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por los siguientes tres turnos, todos deben jugar sin parpadear. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "¡Silencio! Jueguen una ronda sin hacer ruido, a menos que el juego les pida hablar. Quien emita algún sonido, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, nadie se puede tocar la cara. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, nadie puede hacer contacto físico con nadie más. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, cada vez que alguien tome debe aplaudir. Quien no lo haga, toma dos tragos adicionales.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, cada que alguien tome debe hacer gestos de disgusto. Quien no lo haga, toma dos tragos adicionales.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, cada vez que alguien tome, antes deberá hacer un ruido de animal al terminar. Quien no lo haga, toma un trago adicional.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Jueguen una ronda en cuclillas. Quien se levante, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, jueguen con una mano en el pecho en todo momento. Quien la levante, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda, todos los jugadores entrelacen sus piernas con los jugadores de sus lados. Quien deje de hacerlo, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora,  a quien le lleguen notificaciones en el celular debe de tomar.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Amnistía: los jugadores que lleven más de 3 bebidas tomadas descansan y dejan de tomar por una ronda.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Jueguen una ronda de pie. Quien se siente, toma 3 tragos.",
+      "intensidad": 0
+    },
+    {
+      "texto": "La peste: Por una ronda, quienes interactuen contigo deberán mantener una muesca de asco. Si no lo hacen, se les contagia la peste por una ronda.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, a partir de ahora, cada que tomes podrás tomar de cualquier trago, menos del tuyo.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, a partir de ahora, cada que prepares un trago mandas a tomar a alguien más.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, quien se pare al baño toma.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, todos deberán caminar de lado como cangrejo. Quien no lo haga, toma dos tragos.",
+      "intensidad": 0
+    },
+    {
+      "texto": "Por una ronda,todos deben hablar con la lengua pegada al paladar. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, nadie puede usar su mano dominante. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, nadie puede tocar el piso. Quien lo haga, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, cada que tú tomes, {{OTRO}} toma también.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, cada que {{OTRO}} tome, tomas tú también.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, háblense por el nombre de su ciudad favorita. Quien se equivoque, toma un trago.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, a partir de ahora, puedes pagar el no tomar haciendo 3 lagartijas,",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, háblense de usted entre todos. Quien se equivoque, toma.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, háblense con nombres de familia (hermano, tío, prima, sobrino, abuelo). Quien se equivoque, toma.",
+      "intensidad": 0
+    },
+    {
+      "texto": "A partir de ahora, háblense con el nombre de sus profesiones. Quien se equivoque, toma.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, cada que alguien se sirva un trago tienes que acompañarlo.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, cada que le tomes a tu trago tendrás que beber de manera sensual el trago. Con chupada y todo.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, a partir de ahora, intenta introducir la frase \"¿Cuántos más?\" de manera natural en la conversación. Si te cachan, tomas shot. Si nadie te cacha, repartes shot.",
+      "intensidad": 0
+    },
+    {
+      "texto": "{{YO}}, partir de ahora, intenta introducir la frase \"Pensé que me conocías mejor\" de manera natural en la conversación. Si te cachan, tomas shot. Si nadie te cacha, repartes shot.",
+      "intensidad": 0
+    },
+    {
+      "texto": "La mano del rey: A partir de ahora, si te toca tomar, {{OTRO}} deberá darte el trago en la boca.",
+      "intensidad": 3
+    },
+    {
+      "texto": "Escudero: A partir de ahora, si te toca tomar,  {{OTRO}} deberá tomar en tu lugar.",
+      "intensidad": 2
+    }
+  ]
+}
