@@ -1,0 +1,736 @@
+{
+  "preguntas": [
+    {
+      "texto": "tipos de alcoholes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de automóviles",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de ropa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de hombre",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de mujer",
+      "intensidad": 1
+    },
+    {
+      "texto": "Centros comerciales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animes shojo",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animes shonen",
+      "intensidad": 1
+    },
+    {
+      "texto": "Grupos de K-pop",
+      "intensidad": 1
+    },
+    {
+      "texto": "Películas de comedia",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Bad Bunny",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Shakira",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Taylor Swift",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Paquita",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Enya",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Beyonce",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Madonna",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de Queen",
+      "intensidad": 1
+    },
+    {
+      "texto": "Países de Europa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Países de América",
+      "intensidad": 1
+    },
+    {
+      "texto": "Países de África",
+      "intensidad": 1
+    },
+    {
+      "texto": "Países de Asia",
+      "intensidad": 1
+    },
+    {
+      "texto": "Países de Oceanía",
+      "intensidad": 1
+    },
+    {
+      "texto": "Aves",
+      "intensidad": 1
+    },
+    {
+      "texto": "Mamíferos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Festivales de música",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dinosaurios",
+      "intensidad": 1
+    },
+    {
+      "texto": "Desayunos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Videojuegos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Piezas de ajedrez",
+      "intensidad": 1
+    },
+    {
+      "texto": "Componentes de un carro",
+      "intensidad": 1
+    },
+    {
+      "texto": "Redes sociales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Hobbies",
+      "intensidad": 1
+    },
+    {
+      "texto": "Caricaturas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Peliculas de romance",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comida chatarra",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes ficticios",
+      "intensidad": 1
+    },
+    {
+      "texto": "Planetas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Constelaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Signos del zodiaco chino",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales domesticos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales peligrosos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de refrescos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de papas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de galletas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de cigarros",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de condones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de dulces",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de aguas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de bebidas energeticas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de cocteles",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de bebidas alcoholicas preparadas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipo de flores",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de uvas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de tequila",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de Whisky",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de Ron",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de Vodka",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de cervezas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de arboles",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales invertebrados",
+      "intensidad": 1
+    },
+    {
+      "texto": "Insectos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales marinos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Herramientas ",
+      "intensidad": 1
+    },
+    {
+      "texto": "Elementos de la tabla periodica",
+      "intensidad": 1
+    },
+    {
+      "texto": "Estados de México",
+      "intensidad": 1
+    },
+    {
+      "texto": "Capitales del mundo",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de tennis",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de cuerpos de agua",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de oceanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Continentes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales extintos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Ingredientes que podria llevar un sushi",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones de reggaeton",
+      "intensidad": 1
+    },
+    {
+      "texto": "Peliculas de Disney",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de Disney",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de Marvel",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de Caricatura",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de Podcasts",
+      "intensidad": 1
+    },
+    {
+      "texto": "Creadores de contenido",
+      "intensidad": 1
+    },
+    {
+      "texto": "Actores Mexicanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Actrices Mexicanas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de Harry potter",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de Star Wars",
+      "intensidad": 1
+    },
+    {
+      "texto": "Sagas de libros",
+      "intensidad": 1
+    },
+    {
+      "texto": "Peliculas basadas en libros",
+      "intensidad": 1
+    },
+    {
+      "texto": "Peliculas de Adam Sandler",
+      "intensidad": 1
+    },
+    {
+      "texto": "Deportes en equipo",
+      "intensidad": 1
+    },
+    {
+      "texto": "Directores de Cine",
+      "intensidad": 1
+    },
+    {
+      "texto": "Peliculas de Guillermo del Toro",
+      "intensidad": 1
+    },
+    {
+      "texto": "Series Sitcom",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tacos de...",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes que son animales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Huesos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Musculos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Artículos para invierno",
+      "intensidad": 1
+    },
+    {
+      "texto": "Organos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de Tv",
+      "intensidad": 1
+    },
+    {
+      "texto": "Consolas de videojuegos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personajes de videojuegos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de cadenas de comida",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales de granja",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cuentos clasicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dioses griegos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dioses nordicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dioses egipcios",
+      "intensidad": 1
+    },
+    {
+      "texto": "Monstruos clasicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Leyendas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de superheroes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Obras de arte",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombres de villanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Princesas de Disney",
+      "intensidad": 1
+    },
+    {
+      "texto": "Pintores Clásicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "colores",
+      "intensidad": 1
+    },
+    {
+      "texto": "Electrodomesticos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Chiles",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de celulares",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de computadoras",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de juguetes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Juegos de mesa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de maquillaje",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de maquillaje ",
+      "intensidad": 1
+    },
+    {
+      "texto": "Olores de velas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de cámaras",
+      "intensidad": 1
+    },
+    {
+      "texto": "Prendas de ropa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Deportes en solitario",
+      "intensidad": 1
+    },
+    {
+      "texto": "Géneros musicales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Marcas de perfume",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de osos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Razas de perros",
+      "intensidad": 1
+    },
+    {
+      "texto": "Razas de gatos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Pueblos mágicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Estadios de Fútbol",
+      "intensidad": 1
+    },
+    {
+      "texto": "Museos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Instrumentos musicales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Playas de México",
+      "intensidad": 1
+    },
+    {
+      "texto": "Lugares turisticos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cantantes mexicanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Caciones de desamor",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personas con mucho dinero",
+      "intensidad": 1
+    },
+    {
+      "texto": "Personas con mucho poder",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones para pararse a bailar",
+      "intensidad": 1
+    },
+    {
+      "texto": "Canciones para ponerse a cantar",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cosas que te pueden manchar la ropa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Youtubers",
+      "intensidad": 1
+    },
+    {
+      "texto": "Streamers",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tiktokers",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de monedas del mundo",
+      "intensidad": 1
+    },
+    {
+      "texto": "Libros de autoayuda y superacion personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Profesiones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Frases famosas del cine",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de armas de fuego",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de armas blancas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Presidentes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Técnicas artísticas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Ejercicios físicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Figuras geometricas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Juegos infantiles",
+      "intensidad": 1
+    },
+    {
+      "texto": "Idiomas ",
+      "intensidad": 1
+    },
+    {
+      "texto": "Juegos de naipes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Reality shows",
+      "intensidad": 1
+    },
+    {
+      "texto": "Especias",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cantantes",
+      "intensidad": 1
+    },
+    {
+      "texto": "Apodos mexicanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "cosas que has usado para destapar una chela",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cosas que con frecuencia se pierden en la casa",
+      "intensidad": 1
+    },
+    {
+      "texto": "Cosas que se suelen olvidar",
+      "intensidad": 1
+    },
+    {
+      "texto": "Vehiculos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Animales venenosos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Categorias porno",
+      "intensidad": 3
+    },
+    {
+      "texto": "Fetiches",
+      "intensidad": 3
+    },
+    {
+      "texto": "apodos para el sexo",
+      "intensidad": 3
+    },
+    {
+      "texto": "Apodos para el pene",
+      "intensidad": 3
+    },
+    {
+      "texto": "Apodos para la vagina",
+      "intensidad": 3
+    },
+    {
+      "texto": "Apodos para el trasero",
+      "intensidad": 3
+    },
+    {
+      "texto": "Cosas que prender la situacion",
+      "intensidad": 3
+    },
+    {
+      "texto": "Cosas que apagan la situacion",
+      "intensidad": 3
+    },
+    {
+      "texto": "Palabras que te calientan",
+      "intensidad": 3
+    },
+    {
+      "texto": "Comida que se pueda usar en el sexo",
+      "intensidad": 3
+    },
+    {
+      "texto": "Posiciones sexuales",
+      "intensidad": 3
+    },
+    {
+      "texto": "Cosas que puedes usar en la cama",
+      "intensidad": 3
+    },
+    {
+      "texto": "Canciones buenas para tener sexo",
+      "intensidad": 3
+    },
+    {
+      "texto": "ruidos de animales",
+      "intensidad": 1
+    }
+  ]
+}
