@@ -1,0 +1,164 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Crees que se pueda separar el deseo sexual del romance? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te gustaría tener hijos? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has tenido acosadores? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Tendrías una relación con tu mejor amiga o amigo? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Vivirías con un ex? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cómo fue la relación con tu ex? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuáles son los apodos que te pusieron tus exes? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Saldrías con la ex-pareja de tu mejor amiga o amigo? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "Si tuvieras que rescatar una cualidad de tu ex, ¿Cual seria? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Tienes algún ex con quien volverías si pudieras hacerlo? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees que una pareja puede terminar de manera sana? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué opinas las personas que tienen \"ganado\"? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué opinas de los amigos con derechos? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué opinas de los \"casi algo\"? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te has quedado viviendo en el pasado por algo o alguien? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Comó manejas los problemas con tu pareja? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Aceptarías estar en una relación poliamorosa? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué crees que puede provocar que se termine el deseo en una relación? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te han sido infiel alguna vez? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees que la apariencia importa para estar en una relación? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuántos años de diferencia tiene la persona más mayor con la que has estado? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuántos años de diferencia tiene la persona más joven con la que has estado? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Recuerdas uno de tus mejores besos, con quién fue? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees que es necesario el esfuerzo en una relación y hasta qué punto? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué opinas sobre el sexo casual? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué tendrían que hacerte para que termines una relación amorosa? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has tenido o tendrías una relación abierta? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué es lo más vergonzoso que has hecho por una pareja o crush? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuál ha sido tu rompimiento más desastrozo? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees en la amistad entre hombres y mujeres? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué cualidades buscas en una pareja? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿A qué edad se te rompió el corazón por primera vez? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "Describe el físico de tu pareja ideal. || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuál sería tu plan para una cita ideal? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuándo fue la última vez que lloraste por amor, y por quién? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Consideras a las mascotas parte de la familia? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cómo manejas las despedidas? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué es lo más loco que has hecho por alguien que quieres? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cuéntanos algo que dejaste de hacer por miedo a tus padres. || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué harías si te ofrecen un trabajo de ensueño en otro país pero debes dejar todo atrás? || Familia y relaciones platónicas",
+      "intensidad": 2
+    }
+  ]
+}

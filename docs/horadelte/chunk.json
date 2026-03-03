@@ -1,0 +1,1012 @@
+{
+  "preguntas": [
+    {
+      "texto": "¿Cuál ha sido el mayor sacrificio que has hecho por alguien? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿A quién admiras y por qué? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿De qué error del pasado te arrepientes y qué harías diferente ahora? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Quién es tu amor platónico? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿En el último año has conocido a alguien que te cambió la vida? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te has alejado de alguien importante para ti ? ¿Porque? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Alguna vez has perdido una amistad importante? ¿Por qué? || Familia y relaciones platónicas",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Alguna vez has pensado en el suicidio? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Como quisieras morir? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Como fue la ultima bajoneada emocional por la cual tuviste que pasar? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Que haces cuando detectas una herida del pasado? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has estado en situaciones que detonen tu instinto de supervivencia? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué tanto crees que escuchas y qué tanto hablas? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te has atormentado mucho tiempo con una misma idea? ¿Cual? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Le temes a la muerte? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "Si tuvieras que tatuarte hoy mismo, ¿qué sería y por qué? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué crees que la gente asume de ti antes de conocerte? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees que el sufrimiento es neceasrio para el crecimiento personal? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has mentido para proteger a alguien? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has mentido para dañar a alguien? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué tipo de contacto físico te resulta placentero fuera del acto sexual? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué es lo que no estás haciendo por miedo al fracaso? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te han corrido de un trabajo, si sí, por qué fue? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué parte de tu personalidad te cuesta más aceptar? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Alguna vez has sentido que no eres suficiente? ¿Por qué? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "Si pudieras aprender un idioma instantáneamente a cambio de perder un dedo, ¿qué dedo y qué idioma serían? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué parte de tu personalidad te cuesta más aceptar? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Alguna vez has sentido que no eres suficiente? ¿Por qué? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuál consideras que es tu mayor defecto? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Te arrepientes de algo? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué promesa te haces constantemente pero terminas rompiendo, y por qué? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué canción pondrías en tu funeral? || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "Menciona los apodos que te han puesto. || Personal",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Si la tecnología permitiera subir tu conciencia a una computadora, lo harías? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Dirias que el fin justifica los medios? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees que el dinero realmente compra la felicidad? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cómo fue tu primer beso? || Sexo y relaciones",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Que haces cuando alguien cercano a ti no comparte tus valores? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees en los signos zodiacales? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Comerías carne de perro? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Crees en alguna teoría conspirativa? || Creencias / Religión",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Qué actividad indebida hiciste en pandemia? || Social",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Has envidiado alguno de los presentes? || Otros jugadores",
+      "intensidad": 2
+    },
+    {
+      "texto": "¿Cuáles dirías que son los pilares para una relacion sana? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿De que forma te gusta recibir amor? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu forma de expresar amor? (contacto físico, tiempo de calidad, regalos, actos de servicio o elogios). || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Define el amor con una sola palabra y explica por qué usaste esa palabra. || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te consideras una persona romántica? Elabora. || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Describe la personalidad de tu pareja ideal. || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "Para ti, ¿cuáles son las 3 red flags más importantes? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Con qué persona te encerrarías en un bunker post-apocalíptico? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál ha sido tu peor cita y cómo fue? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has ghosteado a alguien? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te han ghosteado alguna vez? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has tenido alguna cita donde la persona que se presentó no se parecía a la de la foto? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has iniciado alguna relación a través de redes sociales? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has tenido alguna relación a distancia? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo conociste a tu pareja o a tu ex? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees que los ex´s pueden seguir siendo amigos? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que lección aprendiste de tu ex? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Quién es esa persona que nunca pudiste conquistar? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te volverías vegano para complacer a tu pareja? || Sexo y relaciones",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como gozarias de un dia con tus seres queridos? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Describe tu familia con 3 palabras. || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Tienes amigos a los que consideras familia? ¿Quiénes y por qué? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿A qué persona echas de menos? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Solo puedes marcarle a una persona antes de morir ¿A quién le marcas? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo es tu relación con tu mamá? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo es tu relación con tu papá? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Quién es la persona más importante en tu vida y por qué? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es tu vinculo más fuerte actualemente? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué es lo que más valoras de una amistad? || Familia y relaciones platónicas",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo y dónde tomarias la mejor siesta de tu vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que idea has cambiado a lo largo de tu vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que haces para sentirte feliz? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo aprecias la vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como llamarias a la temporada actual de tu vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué tanto fluyes ante la adversidad? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te consideras una persona cuadrada? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Consideras que eres genuino (honesto contigo mismo y como te presentas ante los demas)? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es un placer simple de la vida que disfrutes? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Tienes algun espacio donde te sientas seguro? ¿Cual? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te consideras alguien empatico? ¿Porque? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Perdiste toda tu memoria, pero puedes conservar 1 solo recuerdo ¿Cual seria? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué canción quisieras que tocaran en tu funeral? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que ciudad es la siguiente que quieres visitar y porque? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Donde es tu lugar soñado por visitar? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Donde vivirias si el dinero no fuera una limitante? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dinos 3 de tus hobbies favoritos || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como quisieras que fuera tu funeral? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual seria tu ultimo deseo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si supieras que mañana moriras, ¿Que harias hoy? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Tienes algun mantra de vida o frase que te motive? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Sueles aprovechar las oportunidades cuando se te presentan? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Puedes decir que tienes pensamiento critico? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Nombra una cualidad que quisieras tener. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como llamarias a la temporada actual de tu vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que tanto fluyes ante la adversidad? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te consideras una persona cuadrada? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual fue la ultima razon por la cual te abrumaste? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como te sientes con las acciones que has tomado ultimamente en tu vida? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Sientes que has mejorado como persona de un año para aca? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que haces cuando necesitas relajarte? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Tienes un ritual matutino? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees en el plano astral? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual serie podrias repetir hasta el cansansio? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es tu número de la suerte y porque? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es tu color favorito y porque? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es tu animal favorito y porque? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si pudieras ser un animal ¿Cual serias? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual fue el ultimo acto bondadoso que hiciste? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cual es tu postura delante un fracaso propio? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Eres perfeccionista? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Eres rencoroso? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que haces cuando tienen un dia libre? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Como ves tu vida en 5 años? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Sueles compararte con los demas? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué haces cuando estás triste? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has tenido algun bloqueo emocional? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Estás emocionalmente disponible? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te consideras alguien entrometido/metiche/chismoso? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te gustaría poder vivir más de 100 años? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Si pudieras vivir en cualquier época, cuál sería? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu postura con respecto a la terapia? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has sentido que el universo te habla? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Sueles tener buena intuicion? cuentanos alguna anecdota donde la usaras || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que agradeces el dia de hoy? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu gusto culposo en la música? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Eres más de improvisar o de planificar? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te cuesta reconocer tus logros? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te es difícil pedir ayuda cuando lo necesitas? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué harías si pudieras detener el tiempo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu bebida favorita? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál ha sido uno de los regalos más especiales que has recibido? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona 3 defectos tuyos. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona 3 virtudes tuyas. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona 3 cosas que te hacen feliz. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué es lo que no comerías por nada del mundo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte alguna travesura que hiciste en tu infancia. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte un recuerdo feliz. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte un recuerdo divertido. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué parte de tu cuerpo te gusta menos? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué harías si supieras que te queda un año de vida y lo económico no fuera tema? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué comportamiento de las personas puede irritarte? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿A qué edad aprendiste a andar en bicicleta? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo quieres ser recordado en un futuro? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué te aterrorizaba en la niñez? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Si te quedaran solo cinco años más de vida, cambiarías algo de inmediato? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué apodos te han puesto a lo largo del tiempo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo quieres ser recordado en un futuro? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu lugar favorito en el mundo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu festividad favorita y por qué? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona algún premio que hayas ganado. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cómo sería tu día perfecto? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte tu top 3 de películas favoritas. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿A qué le tienes miedo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué juguete soñaste con tener en tu infancia pero jamás recibiste? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Sabes tocar algún instrumento? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál fue tu primer empleo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué es lo que más te gusta de ti fisicamente? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuáles son tus pequeños momentos de felicidad? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tuviste mascotas, menciona sus nombres y qué eran. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué cantante no soportas escuchar? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si pudieras volver a experimentar algo por primera vez ¿Qué sería? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué fue lo ultimo que compraste en linea? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál fue tu materia favorita de la escuela? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si tienes alguna cicatriz, menciona cómo te la hiciste. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Eres alérgic@ a algo? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu sabor de helado favorito? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Cuál es tu signo del zodiaco? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte un sueño que ya hayas cumplido. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué receta de postre aprendiste en la pandemia? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Comparte una canción que te ponga de buenas. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Tienes algún libro que te haya marcado? cuéntanos por qué. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona algo que te guste de ti. || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si pudieras tener un superpoder ¿cuál sería?  || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué emociones te cuesta más expresar? || Personal",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees en algún ser mitológico? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees en la reencarnación? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que opinas de los extraterrestres? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Que opinas de la meditación? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Te sientes cómodo con la inteligencia artificial? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona una lección valiosa que aprendiste de alguien. || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees en dios o una entidad superior? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona algo en lo que creas, que tus amigos puedan creer que es falso. || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Crees en las almas gemelas? || Creencias / Religión",
+      "intensidad": 1
+    },
+    {
+      "texto": "Menciona una celebridad o influencer que no conoces en realidad, pero que podría convertirse en tu amiga. || Social",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Qué persona te a inspirado a lo largo de tu vida y por qué? || Social",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿Has perdonado faltas de respeto hacia tu persona? || Social",
+      "intensidad": 1
+    },
+    {
+      "texto": "Si pudieras revivir a una celebridad o figura histórica, ¿quién elegirías? || Social",
+      "intensidad": 1
+    },
+    {
+      "texto": "¿A qué edad tuviste tu primera experiencia sexual? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cómo fue tu primera experiencia sexual? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Tienes algún fetiche? ¿Cuál? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Tienes algún fetiche que no sea humanamente posible? (vore, furry, gigantismo, selfcest, etc.) || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Qué es lo que más te prende que te hagan en la cama? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Qué es lo que más te prende hacerle a alguien más en la cama? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has aceptado tener sexo para no incomodar a la otra persona? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "En una relación de sumiso y dominante, ¿quién serías? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Quién fue la primer persona o personaje que despertó tus deseos sexuales? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Eres virgen? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cómo fue tu primer beso? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Te has masturbado pensando en un personaje ficticio? ¿Quién fue? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Qué es lo más vergonzoso que te ha pasado en la cama? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has sido infiel alguna vez? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Aceptarías estar en una relación con una persona asexual? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has tenido alguna pareja que se parezca a tu padre o a tu madre? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Abrirías una cuenta de Onlyfans? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Es más importante la cantidad o la calidad en el sexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Ves como ventaja o desventaja que tu pareja tenga más experiencia sexual que tú? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has practicado el BDSM? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has participado en cibersexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Eres virgen? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si pudieras besar a un personaje de ficticio, ¿quién sería? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "Menciona 3 cosas no sexuales que te prendan. || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has participado o participarías en un trío? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Tendrías relaciones sexuales en la primera cita? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "Estás frente a tres personas que te prenden y una que no. ¿Aceptarías tener sexo con los ojos vendados, sin saber con quién fue? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si un ex te pidiera tener un hijo a cambio de dinero, ¿lo harías? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuál es el lugar menos convencional donde has tenido sexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuál es tu posición sexual favorita? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Te han ofrecido dinero por sexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has asistido a un strip-club? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Alguna ves te has grabado teniendo sexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Quién fue la ultima persona que stalkeaste? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Te han cachado masturbándote? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuál es tu posición sexual favorita? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Con cuántas personas lo has hecho? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Haz utilizado juguetes sexuales? ¿Qué te parecieron? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Con cuál de tus exes tuviste mejor química sexual? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Prefieres luces apagadas o encendidas durante el sexo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si eres mujer, ¿a qué edad fue tu primera regla? Si eres hombre ¿a qué edad fue tu primer sueño húmedo? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "En tu pareja, ¿prefieres el vello púbico rasurado, depilado o al natural? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Alguna vez te arrepentiste de tener sexo con una persona? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuántas parejas sexuales has tenido? || Sexo y relaciones",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Has traicionado a alguien? || Familia y relaciones platónicas",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si cometieras un crimen, ¿a quién confirías el secreto? || Familia y relaciones platónicas",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si pudieras cambiar un aspecto de tu vida, ¿cuál sería? || Personal",
+      "intensidad": 3
+    },
+    {
+      "texto": "Comparte un secreto que ninguno de los presentes sepa. || Personal",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuándo fue la última vez que lloraste y por qué? || Personal",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Te es fácil perdonar? || Personal",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Alguna vez te has autolesionado? || Personal",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Te consideras más conservador o más liberal? || Creencias / Religión",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Crees que la infidelidad puede estar justificada? || Creencias / Religión",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Qué opinas sobre la legalización de las drogas para eliminar el narcotráfico? || Creencias / Religión",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Cuál es una opinión controversial que temes compartir en público? || Creencias / Religión",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Si tuvieras que besar a alguien de los presentes a quién sería? || Otros jugadores",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si #other te sugiriera participar en un trío, ¿lo harías? || Otros jugadores",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si pudieras besar a alguién de los presentes ¿A quién sería? || Otros jugadores",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿A quién de aqui consideras más atractivo? || Otros jugadores",
+      "intensidad": 3
+    },
+    {
+      "texto": "Si fueras virgen, ¿con quién de los presentes preferirías perder tu virginidad? || Otros jugadores",
+      "intensidad": 3
+    },
+    {
+      "texto": "¿Que opinas del suicidio? || Personal",
+      "intensidad": 0
+    },
+    {
+      "texto": "¿Cuál es tu canción favorita de las películas de disney? || Personal",
+      "intensidad": 0
+    }
+  ]
+}
