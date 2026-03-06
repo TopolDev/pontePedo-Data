@@ -2,7 +2,7 @@
   "id": "decreto",
   "nombre": "Decreto",
   "tipo": "simple",
-  "color": "e57013",
+  "color": "4d6cd6",
   "imagenFondo": "decreto.png",
   "cooldownMin": 15,
   "cooldownMax": 20
