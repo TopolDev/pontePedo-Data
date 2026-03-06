@@ -4,6 +4,6 @@
   "tipo": "simple",
   "color": "e57013",
   "imagenFondo": "decreto.png",
-  "cooldownMin": 8,
-  "cooldownMax": 15
+  "cooldownMin": 15,
+  "cooldownMax": 20
 }
