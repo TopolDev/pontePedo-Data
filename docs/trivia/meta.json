@@ -2,6 +2,7 @@
   "id": "trivia",
   "nombre": "Trivia",
   "tipo": "simple",
-  "color": "e57013",
+  "color": "2fe5bf",
   "imagenFondo": "trivia.png"
+
 }
