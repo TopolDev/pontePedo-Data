@@ -1,9 +1,9 @@
 {
   "id": "ninja",
   "nombre": "Ninja",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "",
-  "imagenFondo": ""
+  "tipo": "simple",
+  "color": "1a0050",
+  "probabilidad": 0.30,
+  "dependeDe": "culpablesecreto",
+  "ventanaEntre": true
 }

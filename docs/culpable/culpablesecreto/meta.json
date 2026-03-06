@@ -1,11 +1,8 @@
 {
   "id": "culpablesecreto",
   "nombre": "Culpable Secreto",
-  "totalPreguntas": 236,
-  "gratuitas": 40,
-  "esPremiumOnly": false,
-  "color": "5021d1",
-  "imagenFondo": "culpablesecreto.png"
+  "tipo": "simple",
+  "color": "3a0fa8",
+  "cooldownMin": 8,
+  "cooldownMax": 12
 }
-
-

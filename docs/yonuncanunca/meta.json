@@ -1,9 +1,7 @@
 {
   "id": "yonuncanunca",
   "nombre": "Yo nunca, nunca",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "d01290",
-  "imagenFondo": ""
+  "tipo": "simple",
+  "color": "e57013",
+  "imagenFondo": "yonuncanunca.png"
 }

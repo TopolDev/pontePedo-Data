@@ -1,0 +1,7 @@
+{
+  "id": "trivia",
+  "nombre": "Trivia",
+  "tipo": "simple",
+  "color": "e57013",
+  "imagenFondo": "trivia.png"
+}

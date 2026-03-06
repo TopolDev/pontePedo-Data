@@ -1,9 +1,9 @@
 {
   "id": "shot",
   "nombre": "Shot",
-  "totalPreguntas": 152,
-  "gratuitas": 40,
-  "esPremiumOnly": false,
-  "color": "d42e52",
+  "tipo": "simple",
+  "gameMode": "shot",
+  "color": "e57013",
   "imagenFondo": "shot.png"
 }
+

@@ -1,9 +1,7 @@
 {
   "id": "horadelte",
-  "nombre": "Hora del Té",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "91be2d",
-  "imagenFondo": ""
+  "nombre": "Hora del té",
+  "tipo": "simple",
+  "color": "e57013",
+  "imagenFondo": "horadelte.png"
 }

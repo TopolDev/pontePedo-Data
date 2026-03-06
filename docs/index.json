@@ -4,87 +4,55 @@
       "id": "decreto",
       "nombre": "Decreto",
       "descripcion": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "horadelte",
       "nombre": "Hora del té",
       "descripcion": "Preguntas abiertas, encaminadas a aprender más sobre los jugadores.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "culpable",
       "nombre": "Culpable",
       "descripcion": "A la cuenta de 3 todos deben señalar a alguien. Quien reciba más votos, toma shot.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "shot",
       "nombre": "¡Shot!",
       "descripcion": "Tomas si cumples con las condicionantes. Alternativamente, puedes permitirle al jugador elegir quién toma, si cumple una condicionante.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "reto",
       "nombre": "Reto",
       "descripcion": "Retos. Para safarte, debes tomar la cantidad de tragos que indique la carta. Mientras más alto el nivel, más tragos.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "yonuncanunca",
       "nombre": "Yo nunca nunca",
       "descripcion": "Presentamos un escenario. Quienes hayan hecho lo que 'nunca nunca' se ha hecho, toman.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "juego",
       "nombre": "Juego",
       "descripcion": "Set con varios juegos: Mi pepa mi pito, caricachupas, cascada, teléfono.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": true,
-      "iconoURL": ""
+      "esPremiumOnly": true
     },
     {
       "id": "trivia",
       "nombre": "Trivia",
       "descripcion": "Preguntas de cultura general. El primero en responder, ordena shot. El que está preguntando no toma.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     },
     {
       "id": "queprefieres",
       "nombre": "Qué prefieres",
       "descripcion": "Preguntas estilo disparejo.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
+      "esPremiumOnly": false
     }
   ]
 }
-
-
-
-
-

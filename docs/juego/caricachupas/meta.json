@@ -1,9 +1,6 @@
 {
   "id": "caricachupas",
   "nombre": "Caricachupas",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "ffc928",
-  "imagenFondo": ""
+  "tipo": "simple"
 }
+

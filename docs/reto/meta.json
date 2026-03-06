@@ -1,11 +1,7 @@
 {
   "id": "reto",
   "nombre": "Reto",
-  "totalPreguntas": 242,
-  "gratuitas": 40,
-  "esPremiumOnly": false,
+  "tipo": "simple",
   "color": "e57013",
   "imagenFondo": "reto.png"
 }
-
-

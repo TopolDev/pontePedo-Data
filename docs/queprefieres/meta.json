@@ -1,9 +1,7 @@
 {
   "id": "queprefieres",
-  "nombre": "Que Prefieres",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "0a8583",
-  "imagenFondo": ""
+  "nombre": "Que prefieres",
+  "tipo": "simple",
+  "color": "e57013",
+  "imagenFondo": "queprefieres.png"
 }

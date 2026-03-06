@@ -1,6 +1,7 @@
 {
   "id": "decreto",
   "nombre": "Decreto",
-  "esPremiumOnly": false,
-  "color": "4d6cd6",
+  "tipo": "simple",
+  "color": "e57013",
+  "imagenFondo": "decreto.png"
 }

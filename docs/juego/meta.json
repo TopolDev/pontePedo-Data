@@ -1,9 +1,10 @@
 {
   "id": "juego",
   "nombre": "Juego",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "ffc928",
-  "imagenFondo": ""
+  "tipo": "juegoset",
+  "color": "c0392b",
+  "imagenFondo": "juego.png",
+  "subPaquetes": ["juegos", "mipepamipito", "caricachupas"],
+  "cooldownMin": 5,
+  "cooldownMax": 10
 }

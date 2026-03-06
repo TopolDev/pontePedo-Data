@@ -1,9 +1,5 @@
 {
-  "id": "juego",
-  "nombre": "Juego",
-  "totalPreguntas": ,
-  "gratuitas": ,
-  "esPremiumOnly": false,
-  "color": "ffc928",
-  "imagenFondo": ""
+  "id": "juegos",
+  "nombre": "Juegos",
+  "tipo": "simple"
 }
