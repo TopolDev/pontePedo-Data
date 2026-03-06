@@ -1,8 +1,8 @@
 {
   "paquetes": [
     {
-      "id": "regla",
-      "nombre": "Regla",
+      "id": "decreto",
+      "nombre": "Decreto",
       "descripcion": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
       "totalPreguntas": ,
       "gratuitas": ,
@@ -80,18 +80,10 @@
       "gratuitas": ,
       "esPremiumOnly": false,
       "iconoURL": ""
-    },
-    {
-      "id": "decreto",
-      "nombre": "Decreto",
-      "descripcion": "se establece una regla y se tiene que seguir hasta el siguiente.",
-      "totalPreguntas": ,
-      "gratuitas": ,
-      "esPremiumOnly": false,
-      "iconoURL": ""
     }
   ]
 }
+
 
 
 
