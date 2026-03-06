@@ -1,0 +1,11 @@
+{
+  "id": "culpablesecreto",
+  "nombre": "Culpable Secreto",
+  "totalPreguntas": 236,
+  "gratuitas": 40,
+  "esPremiumOnly": false,
+  "color": "5021d1",
+  "imagenFondo": "culpablesecreto.png"
+}
+
+

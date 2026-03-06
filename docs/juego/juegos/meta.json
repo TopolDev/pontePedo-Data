@@ -1,0 +1,9 @@
+{
+  "id": "juego",
+  "nombre": "Juego",
+  "totalPreguntas": ,
+  "gratuitas": ,
+  "esPremiumOnly": false,
+  "color": "ffc928",
+  "imagenFondo": ""
+}

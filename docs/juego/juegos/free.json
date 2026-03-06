@@ -1,0 +1,164 @@
+{
+  "preguntas": [
+    {
+      "texto": "Mandar a la vrsh a alguien *",
+      "intensidad": 2
+    },
+    {
+      "texto": "Groserias",
+      "intensidad": 2
+    },
+    {
+      "texto": "Desastres naturales",
+      "intensidad": 2
+    },
+    {
+      "texto": "Posibles \"Fin del mundo\"",
+      "intensidad": 2
+    },
+    {
+      "texto": "Problemas mundiales",
+      "intensidad": 2
+    },
+    {
+      "texto": "Enfermedades",
+      "intensidad": 2
+    },
+    {
+      "texto": "Comida afrodisiaca",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes encontrar en el mar",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas que puedes encontrar en unos xv años",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes untar en un pan",
+      "intensidad": 2
+    },
+    {
+      "texto": "Apodos para ir a hacer del baño",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes encontrar en un baño",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas infieles",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas atractivas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Metodos anticonceptivos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Famosos atractivos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas mojadas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas duras",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que cuelgan",
+      "intensidad": 2
+    },
+    {
+      "texto": "Lugares donde te puedes quedar dormido",
+      "intensidad": 2
+    },
+    {
+      "texto": "Teorias conspirativas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Religiones",
+      "intensidad": 2
+    },
+    {
+      "texto": "Deportes olímpicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de baile",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de básquetbol",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de béisbol",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de fútbol americano",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de fútbol (soccer)",
+      "intensidad": 1
+    },
+    {
+      "texto": "Artículos de oficina",
+      "intensidad": 1
+    },
+    {
+      "texto": "Artículos de cocina",
+      "intensidad": 1
+    },
+    {
+      "texto": "Películas de terror",
+      "intensidad": 1
+    },
+    {
+      "texto": "Plantas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Frutas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Verduras",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tubérculos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Postres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dulces",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos italianos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos mexicanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos japoneses",
+      "intensidad": 1
+    }
+  ]
+}
