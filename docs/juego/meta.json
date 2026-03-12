@@ -1,11 +1,8 @@
 {
-  "id": "juego",
-  "nombre": "Juego",
-  "tipo": "juegoset",
-  "color": "ffc928",
-  "imagenFondo": "juego.png",
-  "subPaquetes": ["juegos", "mipepamipito", "caricachupas"],
-  "cooldownMin": 5,
-  "cooldownMax": 10
+  "id": "juegos",
+  "nombre": "Juegos",
+  "tipo": "bundle",
+  "subPaquetes": ["mipepamipito", "caricachupas"],
+  "esPremiumOnly": true,
+  "color": "ffc928"
 }
-
