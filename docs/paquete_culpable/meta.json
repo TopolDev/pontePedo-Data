@@ -1,0 +1,8 @@
+{
+  "id": "culpable",
+  "nombre": "Culpable",
+  "tipo": "bundle",
+  "subPaquetes": ["culpablesecreto", "ninja"],
+  "esPremiumOnly": false,
+  "color": "5021d1"
+}

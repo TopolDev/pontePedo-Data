@@ -1,8 +1,0 @@
-{
-  "id": "juegos",
-  "nombre": "Juegos",
-  "tipo": "bundle",
-  "subPaquetes": ["mipepamipito", "caricachupas"],
-  "esPremiumOnly": true,
-  "color": "ffc928"
-}

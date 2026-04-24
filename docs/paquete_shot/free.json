@@ -1,0 +1,164 @@
+{
+  "preguntas": [
+    {
+      "texto": "Tú tomas. || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien sea el más grande del grupo toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Toma shot a quien lo haya mordido un perro. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien nunca contesta los mensajes toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "El último que se sirvió su vaso toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Shot sino bailas la canción \"la nena\". || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Todos los hombres toman || Básicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien sea el más joven del grupo toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Toma shot a quien lo hay arañado un gato. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien se haya quemado el cabello con la plancha. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien haya ido más de 2 veces al baño esta noche reparte tragos. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Shot sino cantas una canción de José José. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último que se meta un hielo a la boca toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien tenga el pie más grande toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga el cabello más claro toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga el cabello pintado reparte tragos. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga calzado cerrado toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien traiga cargador de celular reparte tragos. || Cosas random",
+      "intensidad": 1
+    },
+    {
+      "texto": "El último que se fue de viaje toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Toman los que se ríen chistoso. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga dos teléfonos celulares reparte tragos. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien se haya ido a vivir a otro estado toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga batería del móvil menor a 50% toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien esté más sobrio toma. || Del Momento",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien haya tenido sexo en las últimas 24 hrs toma. || Personalidad y costumbres",
+      "intensidad": 3
+    },
+    {
+      "texto": "Todos los que estudiaron licenciatura toman. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien no use TikTok toma. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Quien tenga el pelo chino toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 1
+    },
+    {
+      "texto": "Todos tus compañeros deben de maullar. El que consideres menos convincente toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "El último que llegue a la cocina toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Enumérense, toman los jugadores pares. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Al último en ponerse una mano en la cabeza toma. || Retos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien tenga más tatuajes reparte tragos || Apariencia y cosas que ya estaban",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quien tenga hecha la circuncición toma. || Apariencia y cosas que ya estaban",
+      "intensidad": 3
+    },
+    {
+      "texto": "Quien se haya masturbado el día de hoy toma. || Personalidad y costumbres",
+      "intensidad": 3
+    },
+    {
+      "texto": "Mandas a tomar a un jugador y a los jugadores a su lado. || Básicos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Quienes estén haciendo contacto físico con otro jugador intercambian tragos. || Del Momento",
+      "intensidad": 3
+    },
+    {
+      "texto": "Los que lloraron con Titanic toman. || Personalidad y costumbres",
+      "intensidad": 1
+    },
+    {
+      "texto": "El último que se quite una prenda toma. || Retos",
+      "intensidad": 3
+    },
+    {
+      "texto": "Todas las muejeres toman. || Básicos",
+      "intensidad": 1
+    }
+  ]
+}
