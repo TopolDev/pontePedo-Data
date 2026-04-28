@@ -1,5 +1,5 @@
 {
-  "id": "shot",
+  "id": "paquete_shot",
   "nombre": "Shot",
   "tipo": "simple",
   "gameMode": "shot",

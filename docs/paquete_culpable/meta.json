@@ -1,5 +1,5 @@
 {
-  "id": "culpable",
+  "id": "paquete_culpable",
   "nombre": "Culpable",
   "tipo": "bundle",
   "subPaquetes": ["culpablesecreto", "ninja"],

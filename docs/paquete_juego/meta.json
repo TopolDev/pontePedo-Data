@@ -1,5 +1,5 @@
 {
-  "id": "juegos",
+  "id": "paquete_juegos",
   "nombre": "Juegos",
   "tipo": "bundle",
   "subPaquetes": ["mipepamipito", "caricachupas"],
