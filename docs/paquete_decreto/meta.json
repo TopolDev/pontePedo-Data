@@ -3,7 +3,7 @@
   "nombre": "Decreto",
   "tipo": "simple",
   "color": "4d6cd6",
-  "imagenFondo": "paquete_decreto.png",
+  "imagenFondo": "paquete_decreto",
   "cooldownMin": 10,
   "cooldownMax": 15
 }
