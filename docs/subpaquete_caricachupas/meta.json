@@ -2,6 +2,7 @@
   "id": "subpaquete_caricachupas",
   "nombre": "Caricachupas",
   "tipo": "simple",
+  "color": "ffc928",
   "imagenFondo": "paquete_juego"
 }
 
