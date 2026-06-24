@@ -3,6 +3,7 @@
   "nombre": "Culpable Secreto",
   "tipo": "simple",
   "color": "5021d1",
+  "imagenFondo": "subpaquete_culpablesecreto"
   "cooldownMin": 8,
   "cooldownMax": 12
 }
