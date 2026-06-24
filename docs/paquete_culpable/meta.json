@@ -4,5 +4,6 @@
   "tipo": "bundle",
   "subPaquetes": ["culpablesecreto", "ninja"],
   "esPremiumOnly": false,
-  "color": "5021d1"
+  "color": "5021d1",
+  "imagenFondo": "paquete_culpable"
 }
