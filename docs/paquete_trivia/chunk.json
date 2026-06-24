@@ -1,0 +1,1780 @@
+{
+    "preguntas":  [
+                      {
+                          "texto":  "¿Quién nació primero, Chabelo, Cristina Aguilera o la reina Isabel?",
+                          "intensidad":  "0",
+                          "Respuesta":  "La reina Isabel",
+                          "a":  "Chabelo",
+                          "b":  "Cristina Aguilera",
+                          "c":  "La reina Isabel"
+                      },
+                      {
+                          "texto":  "¿Qué es el ISR?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Impuesto sobre la renta",
+                          "a":  "",
+                          "b":  "Impuesto sobre la renta",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál era el nombre completo de Pablo Picasso?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cómo se llamó el primer disco de Madonna?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Madonna",
+                          "a":  "Material Girl",
+                          "b":  "Madonna",
+                          "c":  "This is me"
+                      },
+                      {
+                          "texto":  "¿A qué hace refencia \"cantoya\" cuando hablamos de los globos de cantoya?",
+                          "intensidad":  "0",
+                          "Respuesta":  "A Joaquín de la Cantolla y Rico, pionero en la construcción de globos aerostáticos",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuántos puntos tiene un dado?",
+                          "intensidad":  "0",
+                          "Respuesta":  "21",
+                          "a":  "24",
+                          "b":  "22",
+                          "c":  "21"
+                      },
+                      {
+                          "texto":  "¿Cuántas cartas diferentes tiene la baraja inglesa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "52",
+                          "a":  "50",
+                          "b":  "48",
+                          "c":  "52"
+                      },
+                      {
+                          "texto":  "Nombra los cuatro palos de la bajara francesa",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pica, corazón, diamante y trébol",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "Nombra los cinco dedos de la mano",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pulgar, índice, medio, anular, meñique",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿En qué tipo de planta crecen los dátiles?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Palmera",
+                          "a":  "Almendro",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿En qué año finalizó la 2da guerra mundial?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1945",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cómo se le conocía a Darth Vader antes de pasar al lado oscuro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Anakin Skywalker",
+                          "a":  "Luke Skywalker",
+                          "b":  "Din Djarin",
+                          "c":  "Anakin Skywalker"
+                      },
+                      {
+                          "texto":  "¿Cuántos huesos tiene el cuerpo humano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "206",
+                          "a":  "206",
+                          "b":  "230",
+                          "c":  "106"
+                      },
+                      {
+                          "texto":  "¿Quién es el rey del rock?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Elvis Presley",
+                          "a":  "Chuck Berry",
+                          "b":  "Michael Jackson",
+                          "c":  "Elvis Presley"
+                      },
+                      {
+                          "texto":  "¿Quién es la princesa del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Britney Spears",
+                          "a":  "Madonna",
+                          "b":  "Britney Spears",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién es la reina del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Madonna",
+                          "a":  "Britney Spears ",
+                          "b":  "Taylor Swift ",
+                          "c":  "Beyonce"
+                      },
+                      {
+                          "texto":  "¿Quién es el rey del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Michael Jackson",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es el país maás grande del mundo? ",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rusia",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuales son los nombres de los integrantes de la Banda Británca The Beatles?",
+                          "intensidad":  "0",
+                          "Respuesta":  "John Lennon, Paul McCartney, George Harrison, Ringo Starr",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién es el autor de la novela Pedro Páramo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Juan Rulfo",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué países limitan al sur de méxico?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Guatemala  y belice",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué quiere decir tener acrofobia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Miedo a las alturas",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué océanos rodean a México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Océano Pacífico y Océano Atlántico",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es la montaña más alta de México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pico de Orizaba con 5.636 m. s. n. m.",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué simbolizó a caída del muro de Berlín en 1989?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El fin de la guerra fría",
+                          "a":  "",
+                          "b":  "",
+                          "c":  "El fin de la guerra fría"
+                      },
+                      {
+                          "texto":  "¿Cuál es la montaña más alta del mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El monte Everst con 8.848,86 m. s. n. m.",
+                          "a":  "",
+                          "b":  "El monte Everst con 8.848,86 m. s. n. m.",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién pintó la Mona Lisa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Leonardo da Vinci",
+                          "a":  "Leonardo da Vinci",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre de la corriente artística que exhalta lo irracional y onírico?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Surrealismo",
+                          "a":  "",
+                          "b":  "",
+                          "c":  "Surrealismo"
+                      },
+                      {
+                          "texto":  "¿Cuál fue la primer película animada de Dinsey?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Blanca nieves y los 7 enanitos de 1937",
+                          "a":  "Dumbo",
+                          "b":  "Fantasía",
+                          "c":  "Blanca nieves y los 7 enanitos de 1937"
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre real de Bad Bunny?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Benito Antonio Martínez Ocasio",
+                          "a":  "Bruno Benito Martínez ",
+                          "b":  "Benito Antonio Ocasio Marínez",
+                          "c":  "Benito Antonio Martínez Ocasio"
+                      },
+                      {
+                          "texto":  "¿Cuál es la nacionalidad de Chayanne?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Puertoriqueño",
+                          "a":  "Colobiano",
+                          "b":  "Puertoriqueño",
+                          "c":  "Mexicano"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama la banda liderada por Chris Martin?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Coldplay",
+                          "a":  "Coldplay",
+                          "b":  "Maroon 5",
+                          "c":  "The killers"
+                      },
+                      {
+                          "texto":  "¿En qué serie aparece el personaje de Walter White?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Breaking bad",
+                          "a":  "Malcolm",
+                          "b":  "Los Soprano",
+                          "c":  "Breaking bad"
+                      },
+                      {
+                          "texto":  "¿Qué director dirigió la película \"Titanic\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "James Cameron",
+                          "a":  "James Cameron",
+                          "b":  "Stiven Spilberg",
+                          "c":  "Wes Anderson"
+                      },
+                      {
+                          "texto":  "¿Cuál es el hueso más largo del cuerpo humano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Fémur",
+                          "a":  "Periné",
+                          "b":  "Homoplato",
+                          "c":  "Fémur"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el dragón de Mulán?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Mushu",
+                          "a":  "Pichu",
+                          "b":  "Mushu",
+                          "c":  "Poncho"
+                      },
+                      {
+                          "texto":  "¿De dónde viene la palabra \"Canola\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Proviene de las paalbras \"Canadian Oil\". El aceite de canola fue desarrollado en Canadá en los 60\u0027s.",
+                          "a":  "De la semilla Brassica Canolis",
+                          "b":  "De las palabras \"Canadian\" y \"Oil\"",
+                          "c":  "De la tribu Canoo-ulá en Nueva Zelanda"
+                      },
+                      {
+                          "texto":  "¿Cuántos jugadores de un equipo de baloncesto puede estar en la cancha al mismo tiempo",
+                          "intensidad":  "0",
+                          "Respuesta":  "5",
+                          "a":  "6",
+                          "b":  "5",
+                          "c":  "7"
+                      },
+                      {
+                          "texto":  "¿En qué país vive el mounstro del lago ness?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Escocia",
+                          "a":  "Escocia",
+                          "b":  "Noruega",
+                          "c":  "Irlanda"
+                      },
+                      {
+                          "texto":  "¿Qué país le regaló la estatua de la libertad a EE.UU conmemorando el centenario de la declaración de independencia y como símbolo de amistad",
+                          "intensidad":  "0",
+                          "Respuesta":  "Francia",
+                          "a":  "Grecia",
+                          "b":  "Francia",
+                          "c":  "Italia"
+                      },
+                      {
+                          "texto":  "¿Quién rediseñó el logotipo de Chupa Chups en 1969?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Salvador Dalí",
+                          "a":  "David Alfaro Siqueiros",
+                          "b":  "Lance Wyman",
+                          "c":  "Salvador Dalí"
+                      },
+                      {
+                          "texto":  "¿En qué parte del cuerpo se encuentra el músculo deltoide?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Hombro",
+                          "a":  "Cuello",
+                          "b":  "Pierna",
+                          "c":  "Hombro"
+                      },
+                      {
+                          "texto":  "¿Qué animal es el único que puede volar hacia atrás?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Colibrí",
+                          "a":  "Murciélago",
+                          "b":  "Mariposa",
+                          "c":  "Colibrí"
+                      },
+                      {
+                          "texto":  "¿Cuántos grados suman los ángulos internos de un cuadrado?",
+                          "intensidad":  "0",
+                          "Respuesta":  "360°",
+                          "a":  "180°",
+                          "b":  "360°",
+                          "c":  "720°"
+                      },
+                      {
+                          "texto":  "¿Cuántas púas puede tener un erizo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Entre 5,000 y 7,000",
+                          "a":  "Entre 5,000 y 7,000",
+                          "b":  "Entre 2,000 y 3,000",
+                          "c":  "Entre 1,000 y 1,500"
+                      },
+                      {
+                          "texto":  "¿Cuál es la fruta más dulce?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Dátil",
+                          "a":  "Plátano",
+                          "b":  "Dátil",
+                          "c":  "Sandia"
+                      },
+                      {
+                          "texto":  "¿Qué viaja más rápido?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Luz",
+                          "a":  "Luz",
+                          "b":  "Sonido",
+                          "c":  "Viento"
+                      },
+                      {
+                          "texto":  "¿Cuál es el animal nacional de China?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Oso panda",
+                          "a":  "Panda rojo",
+                          "b":  "Oso panda",
+                          "c":  "Grulla de corona Roja"
+                      },
+                      {
+                          "texto":  "¿Quien pintó la obra \"Los comedores de patata\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Vincent Van Gogh",
+                          "a":  "Edgar Degas",
+                          "b":  "Vincen Van Gogh",
+                          "c":  "Paul Gauguin"
+                      },
+                      {
+                          "texto":  "¿Cuáles son los colores primarios?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rojo, amarillo y azul",
+                          "a":  "Rojo, amarillo y azul",
+                          "b":  "Violeta, anaranjado y café",
+                          "c":  "Verde, blanco y rojo"
+                      },
+                      {
+                          "texto":  "¿Dónde está el edificio más alto del mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Dubái",
+                          "a":  "Hong Kong",
+                          "b":  "Dubái",
+                          "c":  "Nueva York"
+                      },
+                      {
+                          "texto":  "¿En qué país nació Adolf Hitler?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Austria",
+                          "a":  "Humgría",
+                          "b":  "Austria",
+                          "c":  "Alemania"
+                      },
+                      {
+                          "texto":  "¿Qué mar conecta a Europa con África?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Mar mediterráneo",
+                          "a":  "Mar Negro",
+                          "b":  "Mar Caspio",
+                          "c":  "Mar Caribe"
+                      },
+                      {
+                          "texto":  "¿Qué científico descrubió la penicilina?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Alexander Fleming",
+                          "a":  "Paul Ehrlich",
+                          "b":  "Alexander Fleming",
+                          "c":  "Luis Ernesto Miramontes"
+                      },
+                      {
+                          "texto":  "¿En qué año dió inicio la Revolución Mexicana?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1910",
+                          "a":  "1920",
+                          "b":  "1910",
+                          "c":  "1810"
+                      },
+                      {
+                          "texto":  "¿Quien compuso \"Las cuatro estaciones\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Antonio Vivaldi",
+                          "a":  "Ludwing Van Beethoven",
+                          "b":  "Antonio Vivaldi",
+                          "c":  "Wolfgang Amadeus Mozart"
+                      },
+                      {
+                          "texto":  "¿Cuál es el gas más abundandte en la atmósfera de la tierra?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Nitrógeno",
+                          "a":  "Oxígeno",
+                          "b":  "Nitrógeno",
+                          "c":  "Dióxido de Carbono"
+                      },
+                      {
+                          "texto":  "¿Qué animal marino tiene tres corazones?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pulpo",
+                          "a":  "Tortuga",
+                          "b":  "Medusa",
+                          "c":  "Pulpo"
+                      },
+                      {
+                          "texto":  "¿En qué año llegó Cristobal Colón a Ámerica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1492",
+                          "a":  "1492",
+                          "b":  "1472",
+                          "c":  "1831"
+                      },
+                      {
+                          "texto":  "¿Quien escirbió \"Cien años de soledad\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Gabriel García Márquez",
+                          "a":  "Julio Cortázar",
+                          "b":  "Mario Vargas Llosa",
+                          "c":  "Gabriel García Márquez"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el reino de Anna y Elsa de la peícula Frozen?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Arendelle",
+                          "a":  "Hallstat",
+                          "b":  "Agrabah",
+                          "c":  "Arendelle"
+                      },
+                      {
+                          "texto":  "¿Cuál es el planeta más brillante?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Venus",
+                          "a":  "Urano ",
+                          "b":  "Venus",
+                          "c":  "Júpiter"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el barco de Davy Jones en Piratas del Caribe?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Holandés Errante",
+                          "a":  "Bucanero Negro",
+                          "b":  "Holandés Flotante",
+                          "c":  "Holandés Errante"
+                      },
+                      {
+                          "texto":  "¿En la película de la Sirenita, qué nombre se pone Úrsula al convertirse en humana?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Vanessa",
+                          "a":  "Vanesa",
+                          "b":  "Karla",
+                          "c":  "Aurora"
+                      },
+                      {
+                          "texto":  "¿De qué país es originario el Kimchi",
+                          "intensidad":  "0",
+                          "Respuesta":  "Corea",
+                          "a":  "Corea",
+                          "b":  "Japón",
+                          "c":  "Indonesia"
+                      },
+                      {
+                          "texto":  "¿Qué planeta está más alejdado del sol?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Neptuno",
+                          "a":  "Mercurio",
+                          "b":  "Neptuno",
+                          "c":  "Marte"
+                      },
+                      {
+                          "texto":  "¿Cada cuantos años se celebra la copa mundial de la fifa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "4 años",
+                          "a":  "4 años",
+                          "b":  "6 años",
+                          "c":  "3años"
+                      },
+                      {
+                          "texto":  "¿Con qué número hizo su debut Cristiano Ronaldo en el Real Madrid?",
+                          "intensidad":  "0",
+                          "Respuesta":  "9",
+                          "a":  "9",
+                          "b":  "11",
+                          "c":  "7"
+                      },
+                      {
+                          "texto":  "¿En qué año se fundó la FIFA?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1904",
+                          "a":  "1904",
+                          "b":  "1935",
+                          "c":  "1970"
+                      },
+                      {
+                          "texto":  "¿De donde es originario el fondue?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Suiza",
+                          "a":  "Austria",
+                          "b":  "Francia",
+                          "c":  "Suiza"
+                      },
+                      {
+                          "texto":  "¿Cuántas terminaciones nerviosas tiene el clítoris?",
+                          "intensidad":  "0",
+                          "Respuesta":  "8.000",
+                          "a":  "8.000",
+                          "b":  "200.00",
+                          "c":  "3.000"
+                      },
+                      {
+                          "texto":  "¿Qué animal además del ser humano tiene sexo por placer?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Delfines y bonobos",
+                          "a":  "Lagartos",
+                          "b":  "Delfines y Bonobos",
+                          "c":  "Arañas"
+                      },
+                      {
+                          "texto":  "¿Qué es la anhedonia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Incapacidad para experimentar placer",
+                          "a":  "Miedo extremo a la soledad",
+                          "b":  "Incapacidad para experimentar placer",
+                          "c":  "Dificultad para identificar y expresar emociones"
+                      },
+                      {
+                          "texto":  "¿Quién es considerado el padre del psicoanálisis?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Sigmund Freud",
+                          "a":  "Carl Jung",
+                          "b":  "Jan Piaget",
+                          "c":  "Sigmund Freud"
+                      },
+                      {
+                          "texto":  "¿Cuál es el océano más pequeño del mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Océano ártico",
+                          "a":  "Oceáno Ártico",
+                          "b":  "Oceáno Atlántico",
+                          "c":  "Oceáno índico"
+                      },
+                      {
+                          "texto":  "¿Qué país tiene como animal nacional al Kiwi?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Nueva Zelanda",
+                          "a":  "Nueva zelanda",
+                          "b":  "Noruega",
+                          "c":  "Finlandia"
+                      },
+                      {
+                          "texto":  "¿Cuántos premios nobel ha ganado México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "3",
+                          "a":  "0",
+                          "b":  "5",
+                          "c":  "3"
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre del lago más grande de México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Lago de Chapala",
+                          "a":  "Lago de Chapala",
+                          "b":  "Lago de Pátzcuaro",
+                          "c":  "Lago Guatavita"
+                      },
+                      {
+                          "texto":  "¿Cuál es el periódico más antiguo de México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El Universal",
+                          "a":  "El reforma",
+                          "b":  "Publimetro",
+                          "c":  "El universal"
+                      },
+                      {
+                          "texto":  "¿En qué año falleció Kobe Bryant, jugador de baloncesto?",
+                          "intensidad":  "0",
+                          "Respuesta":  "2020",
+                          "a":  "2017",
+                          "b":  "2020",
+                          "c":  "2022"
+                      },
+                      {
+                          "texto":  "¿De qué grupo musical era integrante Chester Bennington?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Linkin Park",
+                          "a":  "Blink 182",
+                          "b":  "Limp Bizkit",
+                          "c":  "Linkin Park"
+                      },
+                      {
+                          "texto":  "¿De qué filósofo es la frase \"Sólo sé que no sé nada\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Sócrates",
+                          "a":  "Sócrates",
+                          "b":  "Platón",
+                          "c":  "René Descartes"
+                      },
+                      {
+                          "texto":  "¿Qué continente tiene la mayor cantidad de países?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Continente Africano",
+                          "a":  "Asiático",
+                          "b":  "Americano",
+                          "c":  "Africano"
+                      },
+                      {
+                          "texto":  "¿A qué país pertenece la gaita?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Escocia",
+                          "a":  "Escocia ",
+                          "b":  "Colombia",
+                          "c":  "Portugal"
+                      },
+                      {
+                          "texto":  "¿Qué árbol da nueces?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El nogal",
+                          "a":  "Olmo",
+                          "b":  "Almendro",
+                          "c":  "Nogal"
+                      },
+                      {
+                          "texto":  "¿Quien interpretó la canción principal para la película del Titanic?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Celine Dion",
+                          "a":  "Celine Dion",
+                          "b":  "Whitney Houston",
+                          "c":  "Kate Bush"
+                      },
+                      {
+                          "texto":  "¿Cuántas semanas tiene un año?",
+                          "intensidad":  "0",
+                          "Respuesta":  "52 semanas",
+                          "a":  "53 semanas",
+                          "b":  "57 semanas",
+                          "c":  "52 semanas"
+                      },
+                      {
+                          "texto":  "¿De qué estilo arquitectónico es la catedral de Notre Dame?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Estilo gótico",
+                          "a":  "Estilo Industrial",
+                          "b":  "Estilo gótico",
+                          "c":  "Estilo clásico"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el hábito involuntario de rechinar los dientes?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Bruxismo",
+                          "a":  "Nistagmo",
+                          "b":  "Algarabía",
+                          "c":  "Bruxismo"
+                      },
+                      {
+                          "texto":  "¿De qué país es originario el Oktoberfest?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Alemania",
+                          "a":  "Alemania",
+                          "b":  "Inglaterra",
+                          "c":  "Bielorrusia"
+                      },
+                      {
+                          "texto":  "¿Cómo se llamaba el rancho donde vivía Michael Jackson?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Neverland",
+                          "a":  "Neverends",
+                          "b":  "Dineyland",
+                          "c":  "Neverland"
+                      },
+                      {
+                          "texto":  "¿Qué civilización antigua utilizaba el chocolate como moneda?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Los mayas",
+                          "a":  "Olmecas",
+                          "b":  "Mayas",
+                          "c":  "Incas"
+                      },
+                      {
+                          "texto":  "¿A qué civilización antigua pertenecen los seres mitológicos conocidos como Aluxes?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Los mayas",
+                          "a":  "Aztecas",
+                          "b":  "Celtas",
+                          "c":  "Mayas"
+                      },
+                      {
+                          "texto":  "¿Cuál es el estádo más pequeño de México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Tlaxcala",
+                          "a":  "Tlaxcala",
+                          "b":  "Aguascalinetes",
+                          "c":  "Colima"
+                      },
+                      {
+                          "texto":  "¿Qué película popularizó la frase \"Houston, tenemos un problema\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Apolo 13",
+                          "a":  "Armagedon",
+                          "b":  "Apolo 13",
+                          "c":  "2001: odisea del espacio"
+                      },
+                      {
+                          "texto":  "¿Qué permite examinar un otoscopio?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El oido",
+                          "a":  "La boca",
+                          "b":  "El vientre",
+                          "c":  "El corazón"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama la energía eléctrica extraída del movimiento del agua?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Energía hidraúlica",
+                          "a":  "Eólica",
+                          "b":  "Hidráulica",
+                          "c":  "Lumínica"
+                      },
+                      {
+                          "texto":  "¿Qué metal es el mejor conductor de electricidad?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Plata",
+                          "a":  "Bronce",
+                          "b":  "Aluminio",
+                          "c":  "Plata"
+                      },
+                      {
+                          "texto":  "¿Quién es el creador del universo se star wars?",
+                          "intensidad":  "0",
+                          "Respuesta":  "George Lucas",
+                          "a":  "Stiven Spilberg",
+                          "b":  "George Michael",
+                          "c":  "George Lucas"
+                      },
+                      {
+                          "texto":  "¿Cuál es el animal más venenoso del mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Medusa La avispa de mar",
+                          "a":  "Pitón bola",
+                          "b":  "Medusa Avispa del Mar",
+                          "c":  "Pez Piedra"
+                      },
+                      {
+                          "texto":  "¿A qué le tiene miedo alguien que padece Cinofobia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Perros",
+                          "a":  "Perros",
+                          "b":  "Amaxofobia",
+                          "c":  "Nomofobia"
+                      },
+                      {
+                          "texto":  "¿Qué artista utilizaba nenúfares como motivo en sus pinturas?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Claude Monet",
+                          "a":  "William Turner",
+                          "b":  "Frida Khalo",
+                          "c":  "Claude Monet"
+                      },
+                      {
+                          "texto":  "¿Quién dirigió la película de 1971, La naranja mecánica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Stanley Kubrick",
+                          "a":  "Alfred Hitchcock",
+                          "b":  "Stanly Kubrick",
+                          "c":  "David Fincher"
+                      },
+                      {
+                          "texto":  "¿Cuántas teclas tiene un piano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "88",
+                          "a":  "88",
+                          "b":  "94",
+                          "c":  "100"
+                      },
+                      {
+                          "texto":  "¿Cuál es el país con más volcanes?",
+                          "intensidad":  "0",
+                          "Respuesta":  "EEUUN",
+                          "a":  "EEUU",
+                          "b":  "Rusia",
+                          "c":  "Japón"
+                      },
+                      {
+                          "texto":  "Según la biblia, ¿En qué día Dios creó al hombre?",
+                          "intensidad":  "0",
+                          "Respuesta":  "sexto día",
+                          "a":  "El tercer día",
+                          "b":  "El quinto día",
+                          "c":  "El sexto día"
+                      },
+                      {
+                          "texto":  "¿Cuántos vértices tiene un cilindro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "ninguno",
+                          "a":  "tres",
+                          "b":  "seis",
+                          "c":  "ninguno"
+                      },
+                      {
+                          "texto":  "¿A qué tempereatura se solidifica el agua?",
+                          "intensidad":  "0",
+                          "Respuesta":  "0° centígrados",
+                          "a":  "-2° centígrados",
+                          "b":  "1° centígrados",
+                          "c":  "0° Centígrados"
+                      },
+                      {
+                          "texto":  "¿En qué planeta nació superman?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Kryptón",
+                          "a":  "Kriptonita",
+                          "b":  "Kryptón",
+                          "c":  "Metrópolis"
+                      },
+                      {
+                          "texto":  "¿Con qué alimento se elabora el sake japonés?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Con arroz",
+                          "a":  "Con flor de loto",
+                          "b":  "Almendra",
+                          "c":  "Arroz"
+                      },
+                      {
+                          "texto":  "¿Qué otro nombre recibe la Mona Lisa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "La Gioconda?",
+                          "a":  "La bella",
+                          "b":  "Madame Lisabetta",
+                          "c":  "La Gioconda"
+                      },
+                      {
+                          "texto":  "¿Cúal es la hormona que regula el nivel de azúcar en la sangre?",
+                          "intensidad":  "0",
+                          "Respuesta":  "La insulina",
+                          "a":  "La insulina",
+                          "b":  "Cortisol",
+                          "c":  "Tiroide"
+                      },
+                      {
+                          "texto":  "Cómo se llaman las piezas que conforman una cadena?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Eslabones",
+                          "a":  "Grilletes",
+                          "b":  "Eslabones",
+                          "c":  "Anillos"
+                      },
+                      {
+                          "texto":  "¿Quién fue el primer presidente de los Estados Unidos?",
+                          "intensidad":  "0",
+                          "Respuesta":  "George Washington",
+                          "a":  "Franklin D. Roosevelt",
+                          "b":  "George Washington",
+                          "c":  "Abraham Lincoln"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el lente que se usa sólo para un ojo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Monóculo",
+                          "a":  "Impertinentes",
+                          "b":  "Monóculo",
+                          "c":  "Quevedos"
+                      },
+                      {
+                          "texto":  "¿Qué tratado puso fin a la primera guerra mundial?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Tratado de Versalles",
+                          "a":  "Tratado de San Francisco",
+                          "b":  "Tratado de Versalles",
+                          "c":  "Tratados de París"
+                      },
+                      {
+                          "texto":  "¿En qué año sucedió la caía de las torres gemelas de Neva York?",
+                          "intensidad":  "0",
+                          "Respuesta":  "2001",
+                          "a":  "1999",
+                          "b":  "2004",
+                          "c":  "1997"
+                      },
+                      {
+                          "texto":  "¿Quién fue la primer mujer en ganar un premio nobel?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Marie Curie",
+                          "a":  "Mari Curie",
+                          "b":  "Madre Teresa",
+                          "c":  "Janet Gaynor"
+                      },
+                      {
+                          "texto":  "¿Dónde nació Juana de Acrco?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Fráncia",
+                          "a":  "Austria",
+                          "b":  "España",
+                          "c":  "Francia"
+                      },
+                      {
+                          "texto":  "¿Cuántos cromosomas tiene el ser humano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "46",
+                          "a":  "78",
+                          "b":  "40",
+                          "c":  "46"
+                      },
+                      {
+                          "texto":  "¿Qué células transportan e oxígeno en la sangre?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Glóbulos rojos",
+                          "a":  "Glóbulos rojos",
+                          "b":  "Glóbulos blancos",
+                          "c":  "Epiteliales"
+                      },
+                      {
+                          "texto":  "¿Qué significan las siglas ADN?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Ácido desoxirribonucleico",
+                          "a":  "Acción Democrática Nacionalista",
+                          "b":  "Ácido Desoxirribunocleico",
+                          "c":  "Antes de Nacer"
+                      },
+                      {
+                          "texto":  "¿De qué color es la clorofila?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Verde",
+                          "a":  "Amarilla",
+                          "b":  "Sin color",
+                          "c":  "Verde"
+                      },
+                      {
+                          "texto":  "¿Qué es un poyo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Un banco de pieda adosado a una pared",
+                          "a":  "Cría que nace del huevo de un ave",
+                          "b":  "Un banco de piedra adosado a una pared",
+                          "c":  "Bola de arbusto del desierto"
+                      },
+                      {
+                          "texto":  "¿Quién esculpió \"El rapto de Proserpina\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Gian Lorenzo Bernini",
+                          "a":  "Auguste Rodin",
+                          "b":  "Gian Lorenzo Bernini",
+                          "c":  "Miguel Ángel"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el pigmento natural de la piel?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Melanina",
+                          "a":  "Melanina",
+                          "b":  "Eumelanina",
+                          "c":  "Lúnula"
+                      },
+                      {
+                          "texto":  "¿Qué caracteriza a la escultura conocida como \"La venus de Milo\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Le hacen falta los brazos",
+                          "a":  "Tiene alas",
+                          "b":  "Solo es un busto",
+                          "c":  "Le hacen falta los brazos"
+                      },
+                      {
+                          "texto":  "¿Dónde se produce la isnulina?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Páncreas",
+                          "a":  "Páncreas",
+                          "b":  "Hígado",
+                          "c":  "Tracto gastrointestinal"
+                      },
+                      {
+                          "texto":  "¿Qué país tiene como animal nacional al unicornio?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Escocia",
+                          "a":  "Eslovaquia",
+                          "b":  "Togo",
+                          "c":  "Escocia"
+                      },
+                      {
+                          "texto":  "¿Cuál fue el primer animal clonado?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Oveja",
+                          "a":  "Oveja",
+                          "b":  "Rata",
+                          "c":  "Mono"
+                      },
+                      {
+                          "texto":  "¿Qué cordillera separa a España de Francia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Los pirineos",
+                          "a":  "Los Alpes",
+                          "b":  "Montes Urales",
+                          "c":  "Los pirineos"
+                      },
+                      {
+                          "texto":  "¿Qué animal es conocido como el \"unicornio del mar\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Narval",
+                          "a":  "Morsa",
+                          "b":  "Calamar",
+                          "c":  "Narval"
+                      },
+                      {
+                          "texto":  "¿Qué dfenómeno explica porque al meter un lápiz a un vaso con aguaparece doblarse?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Difracción",
+                          "a":  "Difracción",
+                          "b":  "Difracción",
+                          "c":  "Reflexión"
+                      },
+                      {
+                          "texto":  "¿Quién es considerado el padre de la genética?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Gregor Mendel",
+                          "a":  "Charles Darwin",
+                          "b":  "Gregor Mendel",
+                          "c":  "Antonie van Leeuwenhoek"
+                      },
+                      {
+                          "texto":  "¿Qué tipo de sangre es considerado donante universal?",
+                          "intensidad":  "0",
+                          "Respuesta":  "O-",
+                          "a":  "A+",
+                          "b":  "AB",
+                          "c":  "O-"
+                      },
+                      {
+                          "texto":  "¿Dónde nace el río amazonas?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Perú",
+                          "a":  "Colombia",
+                          "b":  "Perú",
+                          "c":  "Brasil"
+                      },
+                      {
+                          "texto":  "¿Qué nombre se le da al olor de tierra mojada?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Petricor",
+                          "a":  "Petricor",
+                          "b":  "Geosmina",
+                          "c":  "Alcanfor"
+                      },
+                      {
+                          "texto":  "¿Qué animal puede sobrevivir sin cabeza varios días?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Cucaracha",
+                          "a":  "Serpiente",
+                          "b":  "Tortuga",
+                          "c":  "Cucaracha"
+                      },
+                      {
+                          "texto":  "¿Dónde se encuentra la mayor reserva de agua dulce en el mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Antártida",
+                          "a":  "Antártida",
+                          "b":  "Brasil",
+                          "c":  "China"
+                      },
+                      {
+                          "texto":  "¿Qué metal es líquido a temperatura ambiente?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Mercurio",
+                          "a":  "Mercurio",
+                          "b":  "Neodimio",
+                          "c":  "Platino"
+                      },
+                      {
+                          "texto":  "¿Qué sonido puede reproducrise en el espacio?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Ninguno",
+                          "a":  "Silvido",
+                          "b":  "Ninguno",
+                          "c":  "Viento"
+                      },
+                      {
+                          "texto":  "¿Qué ciudad fue la primera en recibir el ataque de una bomba atómica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Hiroshima",
+                          "a":  "Nagasaki",
+                          "b":  "Hiroshima",
+                          "c":  "Corea del Norte"
+                      },
+                      {
+                          "texto":  "¿Qué animal puede imitar sonidos humanos?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Loro",
+                          "a":  "Ave lira",
+                          "b":  "jirafa",
+                          "c":  "Loro"
+                      },
+                      {
+                          "texto":  "¿Qué color se obtiene mezclando rojo, amarillo y azul?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Café",
+                          "a":  "Purpura",
+                          "b":  "Verde oliva",
+                          "c":  "Café"
+                      },
+                      {
+                          "texto":  "¿Qué científico tenía miedo a la oscuridad?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Thomas Alva Edison",
+                          "a":  "Nikola Tesla",
+                          "b":  "Thomas Alva Edison",
+                          "c":  "Henry Cavendish"
+                      },
+                      {
+                          "texto":  "¿Cuántas notas forman la escala musical natural?",
+                          "intensidad":  "0",
+                          "Respuesta":  "7",
+                          "a":  "7",
+                          "b":  "5",
+                          "c":  "8"
+                      },
+                      {
+                          "texto":  "¿Qué compositor creo la banda sonora original de Star wars?",
+                          "intensidad":  "0",
+                          "Respuesta":  "John Williams",
+                          "a":  "Hans Zimmer",
+                          "b":  "Howard Shore",
+                          "c":  "John Williams"
+                      },
+                      {
+                          "texto":  "¿Qué hueso protege al cerebro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El cráneo",
+                          "a":  "Tórax",
+                          "b":  "Craneo",
+                          "c":  "Hioides"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el lugar donde se escriben las notas musicales?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pentagrama",
+                          "a":  "Partitura",
+                          "b":  "Tablatura",
+                          "c":  "Pentagrama"
+                      },
+                      {
+                          "texto":  "¿De qué país es originario el grupo Daft Punk? ",
+                          "intensidad":  "0",
+                          "Respuesta":  "Francia",
+                          "a":  "EEUU",
+                          "b":  "Francia",
+                          "c":  "Reino Unido"
+                      },
+                      {
+                          "texto":  "¿Qué deporte se ha jugado en la luna?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Golf, en 1971",
+                          "a":  "Voleyball",
+                          "b":  "Golf ",
+                          "c":  "Fútbol"
+                      },
+                      {
+                          "texto":  "¿De donde viene la palabra \"Robot\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Proviene de la palabra checa \"Robota\" que significa \"trabajo duro\" o \"servidumbre\"",
+                          "a":  "Origen Griego",
+                          "b":  "Origen Checo",
+                          "c":  "Origen Ruso"
+                      },
+                      {
+                          "texto":  "¿En que año se creó el código QR?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1994, por Masahiro Hara",
+                          "a":  "2001",
+                          "b":  "1994",
+                          "c":  "1992"
+                      },
+                      {
+                          "texto":  "¿Nombre de la pintura más famosa de Edvard Munch?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El grito",
+                          "a":  "Ansiedad",
+                          "b":  "El grito",
+                          "c":  "Amor y dolor"
+                      },
+                      {
+                          "texto":  "¿Quién es el autor de Drácula?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Bram Stoker",
+                          "a":  "Oscar Wilde",
+                          "b":  "Mary Shelley",
+                          "c":  "Bram Stoker"
+                      },
+                      {
+                          "texto":  "¿Estudio de videojuegos que ha creado la saga GTA?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rockstar Games",
+                          "a":  "Epic games",
+                          "b":  "Rockstar Games",
+                          "c":  "Ubisoft"
+                      },
+                      {
+                          "texto":  "Nombre de la serie donde personajes usando una máscara de dalí planean el robo a un banco ",
+                          "intensidad":  "0",
+                          "Respuesta":  "La casa de papel",
+                          "a":  "caleidoscopio",
+                          "b":  "La casa de papel",
+                          "c":  "Point Break"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el nombre del caballo de Don Quijote de la mancha?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rocinante",
+                          "a":  "clavileño",
+                          "b":  "Rocinante",
+                          "c":  "Sancho"
+                      },
+                      {
+                          "texto":  "¿Nombre del niño malvado de la película Toy Story?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Sid",
+                          "a":  "Ted",
+                          "b":  "Sid",
+                          "c":  "Andy"
+                      },
+                      {
+                          "texto":  "¿Qué artista ha ganado la mayor cantidad de grammys?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Beyoncé, con 35",
+                          "a":  "kanye west, con 24",
+                          "b":  "Beyoncé, con 35",
+                          "c":  "Rihanna, con 9"
+                      },
+                      {
+                          "texto":  "¿Qué instrumento toca Jimi Hendrix?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Guitarra",
+                          "a":  "Guitarra",
+                          "b":  "Bajo",
+                          "c":  "Bateria"
+                      },
+                      {
+                          "texto":  "¿Cuál es la casa de Cedric Diggory en Hogwarts?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Hufflepuff",
+                          "a":  "Slytherin",
+                          "b":  "Ravenclaw",
+                          "c":  "Hufflepuff"
+                      },
+                      {
+                          "texto":  "¿Qué articulación conecta la tibia y el fémur?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rodilla",
+                          "a":  "Codo",
+                          "b":  "Rodilla",
+                          "c":  "Hombro"
+                      },
+                      {
+                          "texto":  "¿Quien canta la canción \"La chona\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Los tucanes de tijuana",
+                          "a":  "Los Cadetes de Linares",
+                          "b":  "Cardenales de Nuevo León",
+                          "c":  "Los Tucanes de Tijuana"
+                      },
+                      {
+                          "texto":  "¿Cuál es el genero musical originario de jamaica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Reggae",
+                          "a":  "Hip Hop",
+                          "b":  "Reggae",
+                          "c":  "Rumba"
+                      },
+                      {
+                          "texto":  "¿En qué ciudad de España nació el flamenco?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Andalucía",
+                          "a":  "Madrid",
+                          "b":  "Andalucía",
+                          "c":  "Barcelona"
+                      },
+                      {
+                          "texto":  "¿En qué año se lanzó el primer iphone?",
+                          "intensidad":  "0",
+                          "Respuesta":  "2007",
+                          "a":  "2007",
+                          "b":  "2005",
+                          "c":  "2001"
+                      },
+                      {
+                          "texto":  "¿Cuántos jugadores tiene un equipo de fútbol en el campo durante el partido?",
+                          "intensidad":  "0",
+                          "Respuesta":  "11",
+                          "a":  "9",
+                          "b":  "10",
+                          "c":  "11"
+                      },
+                      {
+                          "texto":  "¿Quién es considerado el mejor jugador de baloncesto de todos los tiempos?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Michael Jordan",
+                          "a":  "LeBrone James",
+                          "b":  "Michael Jordan",
+                          "c":  "Kobe Bryant"
+                      },
+                      {
+                          "texto":  "¿Quién es el director de la película \"El padrino\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Francis Ford Coppola",
+                          "a":  "Alfred Hitchcock",
+                          "b":  "Francis Ford Coppola",
+                          "c":  "Martin Scorsese"
+                      },
+                      {
+                          "texto":  "¿Quién interpretó a batman en la película de 1989 dirigida por Tim Burton?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Michael Keaton",
+                          "a":  "Adam West",
+                          "b":  "Jack Nicholson",
+                          "c":  "Michael Keaton"
+                      },
+                      {
+                          "texto":  "¿Cómo se le llama a los animales que nacen de un huevo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Ovíparos",
+                          "a":  "Ovíparos",
+                          "b":  "Vivíparos",
+                          "c":  "Ovovivíparos"
+                      },
+                      {
+                          "texto":  "¿Cómo se les llama a un grupo de islas cercanas entre sí?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Archipiélago",
+                          "a":  "Piélago",
+                          "b":  "Islotes",
+                          "c":  "Archipiélago"
+                      },
+                      {
+                          "texto":  "¿Qué vitamina se obtiene al exponernos al sol?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Vitamina D",
+                          "a":  "Vitamina D",
+                          "b":  "Vitamina C",
+                          "c":  "Vitamina E"
+                      },
+                      {
+                          "texto":  "¿Cuántos días tiene un año bisiesto?",
+                          "intensidad":  "0",
+                          "Respuesta":  "366 días",
+                          "a":  "365 días",
+                          "b":  "366 días",
+                          "c":  "368 días"
+                      },
+                      {
+                          "texto":  "¿Cuántos años equivalen a 1 lustro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "5 años",
+                          "a":  "1000 años",
+                          "b":  "5 años",
+                          "c":  "3 años"
+                      },
+                      {
+                          "texto":  "¿Cuántos días tarda la tierra en dar una vuelta al sol?",
+                          "intensidad":  "0",
+                          "Respuesta":  "365 días",
+                          "a":  "200 días",
+                          "b":  "370 días",
+                          "c":  "365 días"
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre que recibe el personaje principal de una historia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Protagonista",
+                          "a":  "Líder",
+                          "b":  "antagonista",
+                          "c":  "Protagonista"
+                      },
+                      {
+                          "texto":  "¿En qué sílaba lleva la tilde un apalábra esdrújula?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Antepenúltima",
+                          "a":  "Antepenúltima",
+                          "b":  "Penúltima",
+                          "c":  "Última"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el número inferior de una fracción?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Denominador",
+                          "a":  "Denominador",
+                          "b":  "Numerador",
+                          "c":  "Cociente"
+                      },
+                      {
+                          "texto":  "¿Qué significa la \"i\" en iphone?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Internet",
+                          "a":  "Interfaz",
+                          "b":  "Información",
+                          "c":  "Internet"
+                      },
+                      {
+                          "texto":  "¿Cuál es la capital de Bolivia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Sucre",
+                          "a":  "Quito",
+                          "b":  "Asunción",
+                          "c":  "Sucre"
+                      },
+                      {
+                          "texto":  "¿Cómo se orientan los murciélagos?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Con geolocalización",
+                          "a":  "Geolocalización",
+                          "b":  "Ecolocalización",
+                          "c":  "Olfato"
+                      },
+                      {
+                          "texto":  "¿Qué pieza del ajedrez se mueve unicamente en diagonal?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Alfil",
+                          "a":  "Torres",
+                          "b":  "Alfil",
+                          "c":  "Caballos"
+                      },
+                      {
+                          "texto":  "¿Cómo se le llama a la parte forntal de un bote?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Proa",
+                          "a":  "Proa",
+                          "b":  "Popa",
+                          "c":  "Estribor"
+                      },
+                      {
+                          "texto":  "¿En qué lado del bote se conoce como estribor?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Lado derecho",
+                          "a":  "Lado izquierdo",
+                          "b":  "Atrás",
+                          "c":  "Lado derecho"
+                      },
+                      {
+                          "texto":  "¿Cuántas franjas tiene la bandera de Estados Unidos?",
+                          "intensidad":  "0",
+                          "Respuesta":  "13 franjas",
+                          "a":  "13 franjas",
+                          "b":  "10 franjas",
+                          "c":  "15 franjas"
+                      },
+                      {
+                          "texto":  "¿Cuántos meses dura el embarazo de un elefante?",
+                          "intensidad":  "0",
+                          "Respuesta":  "22 meses",
+                          "a":  "12 meses",
+                          "b":  "22 meses",
+                          "c":  "9 meses"
+                      },
+                      {
+                          "texto":  "¿A qué se le llama oro negro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Petróleo",
+                          "a":  "Paladio",
+                          "b":  "Ópalo negro",
+                          "c":  "Petróleo"
+                      },
+                      {
+                          "texto":  "¿Qué insecto produce energía lumínica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Luciérnaga",
+                          "a":  "Pez abisal",
+                          "b":  "Medusa",
+                          "c":  "Luciérnaga"
+                      },
+                      {
+                          "texto":  "¿Dónde está ubicada la estatua de cristo redentor?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Brasil",
+                          "a":  "Jamaica",
+                          "b":  "Brasil",
+                          "c":  "Ecuador"
+                      },
+                      {
+                          "texto":  "¿En qué año se creó la muñeca barbie?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1959",
+                          "a":  "1960",
+                          "b":  "1959",
+                          "c":  "1985"
+                      },
+                      {
+                          "texto":  "¿Qué científico desarrolló la pila eléctrica?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Alessando Volta",
+                          "a":  "James Watt",
+                          "b":  "Michael Faraday",
+                          "c":  "Alessandro Volta"
+                      },
+                      {
+                          "texto":  "¿Qué significa la palabra \"Ohana\" del hawaiano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Familia",
+                          "a":  "Océano",
+                          "b":  "Familia",
+                          "c":  "Gracias"
+                      },
+                      {
+                          "texto":  "¿En qué año debutó en broadway el musical de \"Wicked\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "2003",
+                          "a":  "1999",
+                          "b":  "205",
+                          "c":  "2003"
+                      },
+                      {
+                          "texto":  "¿Cuál es el show más popular de Brodway?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El rey león",
+                          "a":  "El rey león",
+                          "b":  "Wicked",
+                          "c":  "Los miserables"
+                      },
+                      {
+                          "texto":  "¿Qué serie popular tiene un trono hecho de espadas?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Game of Thrones / Juego de tronos",
+                          "a":  "Vikingos",
+                          "b":  "Game of Thrones / Juego de tronos",
+                          "c":  "The witcher"
+                      },
+                      {
+                          "texto":  "¿Cuál es el instrumento más usado en el jazz?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Saxofón",
+                          "a":  "Tronbón",
+                          "b":  "Saxofón",
+                          "c":  "Piano"
+                      },
+                      {
+                          "texto":  "¿Quién canta \"Firework\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Katy Perry",
+                          "a":  "Taylor Swift",
+                          "b":  "Katy Perry",
+                          "c":  "Elllie Goulding"
+                      },
+                      {
+                          "texto":  "¿Qué red social es popular por sus videos cortos y virales?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Tik tok",
+                          "a":  "Tik tok",
+                          "b":  "Instagram",
+                          "c":  "Vine"
+                      },
+                      {
+                          "texto":  "¿Que juego trata de embonar bloques?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Tetris",
+                          "a":  "Pacman",
+                          "b":  "Tetris",
+                          "c":  "Metal slug"
+                      },
+                      {
+                          "texto":  "¿Qué fruta tiene su seimlla por fuera?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Fresa",
+                          "a":  "Kiwi",
+                          "b":  "Plátano",
+                          "c":  "Fresa"
+                      },
+                      {
+                          "texto":  "¿En qué país se encuentra el lago Titicaca?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Bolivia y Perú",
+                          "a":  "Brasil",
+                          "b":  "Bolivia y Perú",
+                          "c":  "Colombia"
+                      },
+                      {
+                          "texto":  "¿La novela de Cumbres Borrascosas fue escita por?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Emily Brontë",
+                          "a":  "Emily Brontë",
+                          "b":  "Ai Mi",
+                          "c":  "Jane Austen"
+                      },
+                      {
+                          "texto":  "¿Qué descubrimiento hizo Alexander Fleming en 1928?",
+                          "intensidad":  "0",
+                          "Respuesta":  "La penicilina",
+                          "a":  "Viagra",
+                          "b":  "Penicilina",
+                          "c":  "Aspirina"
+                      },
+                      {
+                          "texto":  "¿En qué película aparece el villano de nombre Sauron?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El señor de los anillos",
+                          "a":  "Star Wars",
+                          "b":  "El señor de los anillos",
+                          "c":  "Los Vengadores"
+                      },
+                      {
+                          "texto":  "¿En qué ciudad se lleva a cabo el torneo de Wimbledon?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Londres",
+                          "a":  "Lisboa",
+                          "b":  "Londres",
+                          "c":  "Praga"
+                      },
+                      {
+                          "texto":  "¿Qué artista lanzó el álbum \"1989\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Taylor Swift",
+                          "a":  "Avicci",
+                          "b":  "Gorillaz",
+                          "c":  "Taylor Swift"
+                      },
+                      {
+                          "texto":  "¿Qué famoso pintor vendió sólo una obra en vida?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Vincent Van Gogh",
+                          "a":  "Johannes Vermeer",
+                          "b":  "Frida Kahlo",
+                          "c":  "Vincent Van Gogh"
+                      },
+                      {
+                          "texto":  "¿Cuál es el libro más traducido del mundo después de la biblia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El principito",
+                          "a":  "El principito",
+                          "b":  "Harry Potter",
+                          "c":  "Cien años de soledad"
+                      },
+                      {
+                          "texto":  "¿Qué país también es un continente?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Australia",
+                          "a":  "Africa",
+                          "b":  "Australia",
+                          "c":  "Oceanía"
+                      },
+                      {
+                          "texto":  "¿Cuál es la isla más grande del mar mdeiterráno?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Sicilia",
+                          "a":  "Sicilia",
+                          "b":  "Santorini",
+                          "c":  "Milos"
+                      },
+                      {
+                          "texto":  "¿Cuál es el país con más sitios declarados  Patrimonio de la Humanidad por la UNESCO?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Italia",
+                          "a":  "México",
+                          "b":  "Italia",
+                          "c":  "Alemania"
+                      },
+                      {
+                          "texto":  "¿Dónde nació el Che Guevara?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Argentina",
+                          "a":  "Uruguay",
+                          "b":  "Argentina",
+                          "c":  "Paraguay"
+                      },
+                      {
+                          "texto":  "¿Qué cadena de comida rápida tiene como fundador al Coronel Sanders?",
+                          "intensidad":  "0",
+                          "Respuesta":  "KFC",
+                          "a":  "Papa John\u0027s",
+                          "b":  "Carl\u0027s Jr.",
+                          "c":  "KFC"
+                      },
+                      {
+                          "texto":  "¿Qué actor protagonizó la saga de \"Rambo\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Silvester Stallone",
+                          "a":  "Arnold Schwarzeneger",
+                          "b":  "Jean-Claude Van Damme",
+                          "c":  "Silvester Stallone"
+                      },
+                      {
+                          "texto":  "¿Cómo se dice pulpo en inglés?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Octopus",
+                          "a":  "Octopus",
+                          "b":  "Poulp",
+                          "c":  "purpple"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama la isla donde vivía Peter Pan?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Neverland - Nunca jamás",
+                          "a":  "Wonderland",
+                          "b":  "Neverland - Nunca jamás",
+                          "c":  "Graceland"
+                      },
+                      {
+                          "texto":  "¿El logo de pepsi tiene el color rojo en la parte inferior o superior del texto?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Superior",
+                          "a":  "Inferior",
+                          "b":  "Ambos",
+                          "c":  "Superior"
+                      },
+                      {
+                          "texto":  "¿De qué color es la flor del cerezo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rosa",
+                          "a":  "Rosa",
+                          "b":  "Blanco",
+                          "c":  "Lila"
+                      },
+                      {
+                          "texto":  "¿En qué país se originó la leyenda de la llorona?",
+                          "intensidad":  "0",
+                          "Respuesta":  "México",
+                          "a":  "Brasil",
+                          "b":  "México",
+                          "c":  "Colombia"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el triángulo donde han desaparecido barcos y aviones inexplicablemente?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El triángulo de las bermudas",
+                          "a":  "Isla Povlegia",
+                          "b":  "Límite Central",
+                          "c":  "El triángulo de las bermudas"
+                      }
+                  ]
+}
