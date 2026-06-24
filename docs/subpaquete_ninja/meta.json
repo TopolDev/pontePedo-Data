@@ -3,6 +3,7 @@
   "nombre": "Ninja",
   "tipo": "simple",
   "color": "1a0050",
+  "imagenFondo": "subpaquete_ninja"
   "probabilidad": 0.30,
   "dependeDe": "culpablesecreto",
   "ventanaEntre": true
