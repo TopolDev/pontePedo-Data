@@ -4,5 +4,6 @@
   "tipo": "bundle",
   "subPaquetes": ["mipepamipito", "caricachupas"],
   "esPremiumOnly": true,
-  "color": "ffc928"
+  "color": "ffc928",
+  "imagenFondo": "paquete_juego"
 }
