@@ -1,0 +1,332 @@
+{
+    "preguntas":  [
+                      {
+                          "texto":  "¿Quién nació primero, Chabelo, Cristina Aguilera o la reina Isabel?",
+                          "intensidad":  "0",
+                          "Respuesta":  "La reina Isabel",
+                          "a":  "Chabelo",
+                          "b":  "Cristina Aguilera",
+                          "c":  "La reina Isabel"
+                      },
+                      {
+                          "texto":  "¿Qué es el ISR?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Impuesto sobre la renta",
+                          "a":  "",
+                          "b":  "Impuesto sobre la renta",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál era el nombre completo de Pablo Picasso?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Ruiz y Picasso",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cómo se llamó el primer disco de Madonna?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Madonna",
+                          "a":  "Material Girl",
+                          "b":  "Madonna",
+                          "c":  "This is me"
+                      },
+                      {
+                          "texto":  "¿A qué hace refencia \"cantoya\" cuando hablamos de los globos de cantoya?",
+                          "intensidad":  "0",
+                          "Respuesta":  "A Joaquín de la Cantolla y Rico, pionero en la construcción de globos aerostáticos",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuántos puntos tiene un dado?",
+                          "intensidad":  "0",
+                          "Respuesta":  "21",
+                          "a":  "24",
+                          "b":  "22",
+                          "c":  "21"
+                      },
+                      {
+                          "texto":  "¿Cuántas cartas diferentes tiene la baraja inglesa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "52",
+                          "a":  "50",
+                          "b":  "48",
+                          "c":  "52"
+                      },
+                      {
+                          "texto":  "Nombra los cuatro palos de la bajara francesa",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pica, corazón, diamante y trébol",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "Nombra los cinco dedos de la mano",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pulgar, índice, medio, anular, meñique",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿En qué tipo de planta crecen los dátiles?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Palmera",
+                          "a":  "Almendro",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿En qué año finalizó la 2da guerra mundial?",
+                          "intensidad":  "0",
+                          "Respuesta":  "1945",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cómo se le conocía a Darth Vader antes de pasar al lado oscuro?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Anakin Skywalker",
+                          "a":  "Luke Skywalker",
+                          "b":  "Din Djarin",
+                          "c":  "Anakin Skywalker"
+                      },
+                      {
+                          "texto":  "¿Cuántos huesos tiene el cuerpo humano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "206",
+                          "a":  "206",
+                          "b":  "230",
+                          "c":  "106"
+                      },
+                      {
+                          "texto":  "¿Quién es el rey del rock?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Elvis Presley",
+                          "a":  "Chuck Berry",
+                          "b":  "Michael Jackson",
+                          "c":  "Elvis Presley"
+                      },
+                      {
+                          "texto":  "¿Quién es la princesa del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Britney Spears",
+                          "a":  "Madonna",
+                          "b":  "Britney Spears",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién es la reina del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Madonna",
+                          "a":  "Britney Spears ",
+                          "b":  "Taylor Swift ",
+                          "c":  "Beyonce"
+                      },
+                      {
+                          "texto":  "¿Quién es el rey del pop?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Michael Jackson",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es el país maás grande del mundo? ",
+                          "intensidad":  "0",
+                          "Respuesta":  "Rusia",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuales son los nombres de los integrantes de la Banda Británca The Beatles?",
+                          "intensidad":  "0",
+                          "Respuesta":  "John Lennon, Paul McCartney, George Harrison, Ringo Starr",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién es el autor de la novela Pedro Páramo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Juan Rulfo",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué países limitan al sur de méxico?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Guatemala  y belice",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué quiere decir tener acrofobia?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Miedo a las alturas",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué océanos rodean a México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Océano Pacífico y Océano Atlántico",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es la montaña más alta de México?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Pico de Orizaba con 5.636 m. s. n. m.",
+                          "a":  "",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Qué simbolizó a caída del muro de Berlín en 1989?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El fin de la guerra fría",
+                          "a":  "",
+                          "b":  "",
+                          "c":  "El fin de la guerra fría"
+                      },
+                      {
+                          "texto":  "¿Cuál es la montaña más alta del mundo?",
+                          "intensidad":  "0",
+                          "Respuesta":  "El monte Everst con 8.848,86 m. s. n. m.",
+                          "a":  "",
+                          "b":  "El monte Everst con 8.848,86 m. s. n. m.",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Quién pintó la Mona Lisa?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Leonardo da Vinci",
+                          "a":  "Leonardo da Vinci",
+                          "b":  "",
+                          "c":  ""
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre de la corriente artística que exhalta lo irracional y onírico?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Surrealismo",
+                          "a":  "",
+                          "b":  "",
+                          "c":  "Surrealismo"
+                      },
+                      {
+                          "texto":  "¿Cuál fue la primer película animada de Dinsey?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Blanca nieves y los 7 enanitos de 1937",
+                          "a":  "Dumbo",
+                          "b":  "Fantasía",
+                          "c":  "Blanca nieves y los 7 enanitos de 1937"
+                      },
+                      {
+                          "texto":  "¿Cuál es el nombre real de Bad Bunny?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Benito Antonio Martínez Ocasio",
+                          "a":  "Bruno Benito Martínez ",
+                          "b":  "Benito Antonio Ocasio Marínez",
+                          "c":  "Benito Antonio Martínez Ocasio"
+                      },
+                      {
+                          "texto":  "¿Cuál es la nacionalidad de Chayanne?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Puertoriqueño",
+                          "a":  "Colobiano",
+                          "b":  "Puertoriqueño",
+                          "c":  "Mexicano"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama la banda liderada por Chris Martin?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Coldplay",
+                          "a":  "Coldplay",
+                          "b":  "Maroon 5",
+                          "c":  "The killers"
+                      },
+                      {
+                          "texto":  "¿En qué serie aparece el personaje de Walter White?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Breaking bad",
+                          "a":  "Malcolm",
+                          "b":  "Los Soprano",
+                          "c":  "Breaking bad"
+                      },
+                      {
+                          "texto":  "¿Qué director dirigió la película \"Titanic\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "James Cameron",
+                          "a":  "James Cameron",
+                          "b":  "Stiven Spilberg",
+                          "c":  "Wes Anderson"
+                      },
+                      {
+                          "texto":  "¿Cuál es el hueso más largo del cuerpo humano?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Fémur",
+                          "a":  "Periné",
+                          "b":  "Homoplato",
+                          "c":  "Fémur"
+                      },
+                      {
+                          "texto":  "¿Cómo se llama el dragón de Mulán?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Mushu",
+                          "a":  "Pichu",
+                          "b":  "Mushu",
+                          "c":  "Poncho"
+                      },
+                      {
+                          "texto":  "¿De dónde viene la palabra \"Canola\"?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Proviene de las paalbras \"Canadian Oil\". El aceite de canola fue desarrollado en Canadá en los 60\u0027s.",
+                          "a":  "De la semilla Brassica Canolis",
+                          "b":  "De las palabras \"Canadian\" y \"Oil\"",
+                          "c":  "De la tribu Canoo-ulá en Nueva Zelanda"
+                      },
+                      {
+                          "texto":  "¿Cuántos jugadores de un equipo de baloncesto puede estar en la cancha al mismo tiempo",
+                          "intensidad":  "0",
+                          "Respuesta":  "5",
+                          "a":  "6",
+                          "b":  "5",
+                          "c":  "7"
+                      },
+                      {
+                          "texto":  "¿En qué país vive el mounstro del lago ness?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Escocia",
+                          "a":  "Escocia",
+                          "b":  "Noruega",
+                          "c":  "Irlanda"
+                      },
+                      {
+                          "texto":  "¿Qué país le regaló la estatua de la libertad a EE.UU conmemorando el centenario de la declaración de independencia y como símbolo de amistad",
+                          "intensidad":  "0",
+                          "Respuesta":  "Francia",
+                          "a":  "Grecia",
+                          "b":  "Francia",
+                          "c":  "Italia"
+                      },
+                      {
+                          "texto":  "¿Quién rediseñó el logotipo de Chupa Chups en 1969?",
+                          "intensidad":  "0",
+                          "Respuesta":  "Salvador Dalí",
+                          "a":  "David Alfaro Siqueiros",
+                          "b":  "Lance Wyman",
+                          "c":  "Salvador Dalí"
+                      }
+    ]
+}
