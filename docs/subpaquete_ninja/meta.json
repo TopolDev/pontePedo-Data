@@ -5,6 +5,6 @@
   "color": "1a0050",
   "imagenFondo": "subpaquete_ninja"
   "probabilidad": 0.30,
-  "dependeDe": "culpablesecreto",
+  "dependeDe": "subpaquete_culpablesecreto",
   "ventanaEntre": true
 }
