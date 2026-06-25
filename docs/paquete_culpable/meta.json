@@ -2,7 +2,7 @@
   "id": "paquete_culpable",
   "nombre": "Culpable",
   "tipo": "bundle",
-  "subPaquetes": ["culpablesecreto", "ninja"],
+  "subPaquetes": ["subpaquete_culpablesecreto", "subpaquete_ninja"],
   "esPremiumOnly": false,
   "color": "5021d1",
   "imagenFondo": "paquete_culpable"
