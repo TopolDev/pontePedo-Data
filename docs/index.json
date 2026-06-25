@@ -12,13 +12,13 @@
       "id": "paquete_horadelte",
       "nombre": "Hora del té",
       "descripcion": "Preguntas abiertas, encaminadas a aprender más sobre los jugadores.",
-      "subPaquetes": ["subpaquete_culpablesecreto", "subpaquete_ninja"],
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 292
     },
     {
       "id": "paquete_culpable",
+      "subPaquetes": ["subpaquete_culpablesecreto", "subpaquete_ninja"],
       "nombre": "Culpable",
       "descripcion": "A la cuenta de 3 todos deben señalar a alguien. Quien reciba más votos, toma shot.",
       "esPremiumOnly": false,
