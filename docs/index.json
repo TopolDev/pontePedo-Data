@@ -12,6 +12,7 @@
       "id": "paquete_horadelte",
       "nombre": "Hora del té",
       "descripcion": "Preguntas abiertas, encaminadas a aprender más sobre los jugadores.",
+      "subPaquetes": ["subpaquete_culpablesecreto", "subpaquete_ninja"],
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 292
