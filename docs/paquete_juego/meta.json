@@ -2,7 +2,7 @@
   "id": "paquete_juego",
   "nombre": "Juegos",
   "tipo": "bundle",
-  "subPaquetes": ["mipepamipito", "caricachupas"],
+  "subPaquetes": ["subpaquete_mipepamipito", "subpaquete_caricachupas"],
   "esPremiumOnly": true,
   "color": "ffc928",
   "imagenFondo": "paquete_juego"
