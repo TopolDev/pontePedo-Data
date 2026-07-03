@@ -4,7 +4,7 @@
   "tipo": "simple",
   "color": "1a0050",
   "imagenFondo": "subpaquete_ninja",
-  "probabilidad": 0.30,
+  "probabilidad": 1,
   "dependeDe": "subpaquete_culpablesecreto",
   "ventanaEntre": true
 }
