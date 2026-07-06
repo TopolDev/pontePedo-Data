@@ -1,6 +1,6 @@
 {
   "id": "paquete_juego",
-  "nombre": "Juegos",
+  "nombre": "¡Juego!",
   "tipo": "bundle",
   "subPaquetes": ["subpaquete_caricachupas"],
   "esPremiumOnly": true,
