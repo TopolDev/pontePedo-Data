@@ -54,7 +54,7 @@
       "nombre": "Juego",
       "descripcion": "Set con varios juegos: Mi pepa mi pito, caricachupas, cascada, teléfono.",
       "esPremiumOnly": true,
-      "preguntasGratis": 40,
+      "preguntasGratis": 0,
       "preguntasPremium": 300
     },
     {
