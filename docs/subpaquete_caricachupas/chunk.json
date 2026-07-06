@@ -1,6 +1,178 @@
 {
   "preguntas": [
     {
+      "texto": "Museos",
+      "intensidad": 0
+    },
+    {
+      "texto": "Instrumentos musicales",
+      "intensidad": 0
+    },
+    {
+      "texto": "Playas de México",
+      "intensidad": 0
+    },
+    {
+      "texto": "Lugares turisticos",
+      "intensidad": 0
+    },
+    {
+      "texto": "Cantantes mexicanos",
+      "intensidad": 0
+    },
+    {
+      "texto": "Caciones de desamor",
+      "intensidad": 0
+    },
+    {
+      "texto": "Personas con mucho dinero",
+      "intensidad": 0
+    },
+    {
+      "texto": "Personas con mucho poder",
+      "intensidad": 0
+    },
+    {
+      "texto": "Canciones para pararse a bailar",
+      "intensidad": 0
+    },
+    {
+      "texto": "Canciones para ponerse a cantar",
+      "intensidad": 0
+    },
+    {
+      "texto": "Cosas que te pueden manchar la ropa",
+      "intensidad": 0
+    },
+    {
+      "texto": "Youtubers",
+      "intensidad": 0
+    },
+    {
+      "texto": "Streamers",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tiktokers",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tipos de monedas del mundo",
+      "intensidad": 0
+    },
+    {
+      "texto": "Libros de autoayuda y superacion personal",
+      "intensidad": 0
+    },
+    {
+      "texto": "Profesiones",
+      "intensidad": 0
+    },
+    {
+      "texto": "Frases famosas del cine",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tipos de armas de fuego",
+      "intensidad": 0
+    },
+    {
+      "texto": "Tipos de armas blancas",
+      "intensidad": 0
+    },
+    {
+      "texto": "Presidentes",
+      "intensidad": 0
+    },
+    {
+      "texto": "Técnicas artísticas",
+      "intensidad": 0
+    },
+    {
+      "texto": "Ejercicios físicos",
+      "intensidad": 0
+    },
+    {
+      "texto": "Figuras geometricas",
+      "intensidad": 0
+    },
+    {
+      "texto": "Juegos infantiles",
+      "intensidad": 0
+    },
+    {
+      "texto": "Deportes olímpicos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tipos de baile",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de básquetbol",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de béisbol",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de fútbol americano",
+      "intensidad": 1
+    },
+    {
+      "texto": "Equipos de fútbol (soccer)",
+      "intensidad": 1
+    },
+    {
+      "texto": "Artículos de oficina",
+      "intensidad": 1
+    },
+    {
+      "texto": "Artículos de cocina",
+      "intensidad": 1
+    },
+    {
+      "texto": "Películas de terror",
+      "intensidad": 1
+    },
+    {
+      "texto": "Plantas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Frutas",
+      "intensidad": 1
+    },
+    {
+      "texto": "Verduras",
+      "intensidad": 1
+    },
+    {
+      "texto": "Tubérculos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Postres",
+      "intensidad": 1
+    },
+    {
+      "texto": "Dulces",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos italianos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos mexicanos",
+      "intensidad": 1
+    },
+    {
+      "texto": "Platillos japoneses",
+      "intensidad": 1
+    },
+    {
       "texto": "tipos de alcoholes",
       "intensidad": 1
     },
@@ -373,266 +545,6 @@
       "intensidad": 1
     },
     {
-      "texto": "Huesos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Musculos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Artículos para invierno",
-      "intensidad": 1
-    },
-    {
-      "texto": "Organos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de Tv",
-      "intensidad": 1
-    },
-    {
-      "texto": "Consolas de videojuegos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Personajes de videojuegos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de cadenas de comida",
-      "intensidad": 1
-    },
-    {
-      "texto": "Animales de granja",
-      "intensidad": 1
-    },
-    {
-      "texto": "Cuentos clasicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Dioses griegos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Dioses nordicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Dioses egipcios",
-      "intensidad": 1
-    },
-    {
-      "texto": "Monstruos clasicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Leyendas",
-      "intensidad": 1
-    },
-    {
-      "texto": "Nombres de superheroes",
-      "intensidad": 1
-    },
-    {
-      "texto": "Obras de arte",
-      "intensidad": 1
-    },
-    {
-      "texto": "Nombres de villanos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Princesas de Disney",
-      "intensidad": 1
-    },
-    {
-      "texto": "Pintores Clásicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "colores",
-      "intensidad": 1
-    },
-    {
-      "texto": "Electrodomesticos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Chiles",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de celulares",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de computadoras",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de juguetes",
-      "intensidad": 1
-    },
-    {
-      "texto": "Juegos de mesa",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de maquillaje",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tipos de maquillaje ",
-      "intensidad": 1
-    },
-    {
-      "texto": "Olores de velas",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de cámaras",
-      "intensidad": 1
-    },
-    {
-      "texto": "Prendas de ropa",
-      "intensidad": 1
-    },
-    {
-      "texto": "Deportes en solitario",
-      "intensidad": 1
-    },
-    {
-      "texto": "Géneros musicales",
-      "intensidad": 1
-    },
-    {
-      "texto": "Marcas de perfume",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tipos de osos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Razas de perros",
-      "intensidad": 1
-    },
-    {
-      "texto": "Razas de gatos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Pueblos mágicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Estadios de Fútbol",
-      "intensidad": 1
-    },
-    {
-      "texto": "Museos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Instrumentos musicales",
-      "intensidad": 1
-    },
-    {
-      "texto": "Playas de México",
-      "intensidad": 1
-    },
-    {
-      "texto": "Lugares turisticos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Cantantes mexicanos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Caciones de desamor",
-      "intensidad": 1
-    },
-    {
-      "texto": "Personas con mucho dinero",
-      "intensidad": 1
-    },
-    {
-      "texto": "Personas con mucho poder",
-      "intensidad": 1
-    },
-    {
-      "texto": "Canciones para pararse a bailar",
-      "intensidad": 1
-    },
-    {
-      "texto": "Canciones para ponerse a cantar",
-      "intensidad": 1
-    },
-    {
-      "texto": "Cosas que te pueden manchar la ropa",
-      "intensidad": 1
-    },
-    {
-      "texto": "Youtubers",
-      "intensidad": 1
-    },
-    {
-      "texto": "Streamers",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tiktokers",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tipos de monedas del mundo",
-      "intensidad": 1
-    },
-    {
-      "texto": "Libros de autoayuda y superacion personal",
-      "intensidad": 1
-    },
-    {
-      "texto": "Profesiones",
-      "intensidad": 1
-    },
-    {
-      "texto": "Frases famosas del cine",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tipos de armas de fuego",
-      "intensidad": 1
-    },
-    {
-      "texto": "Tipos de armas blancas",
-      "intensidad": 1
-    },
-    {
-      "texto": "Presidentes",
-      "intensidad": 1
-    },
-    {
-      "texto": "Técnicas artísticas",
-      "intensidad": 1
-    },
-    {
-      "texto": "Ejercicios físicos",
-      "intensidad": 1
-    },
-    {
-      "texto": "Figuras geometricas",
-      "intensidad": 1
-    },
-    {
-      "texto": "Juegos infantiles",
-      "intensidad": 1
-    },
-    {
       "texto": "Idiomas ",
       "intensidad": 1
     },
@@ -675,6 +587,98 @@
     {
       "texto": "Animales venenosos",
       "intensidad": 1
+    },
+    {
+      "texto": "ruidos de animales",
+      "intensidad": 1
+    },
+    {
+      "texto": "Mandar a la vrsh a alguien *",
+      "intensidad": 2
+    },
+    {
+      "texto": "Groserias",
+      "intensidad": 2
+    },
+    {
+      "texto": "Desastres naturales",
+      "intensidad": 2
+    },
+    {
+      "texto": "Posibles \"Fin del mundo\"",
+      "intensidad": 2
+    },
+    {
+      "texto": "Problemas mundiales",
+      "intensidad": 2
+    },
+    {
+      "texto": "Enfermedades",
+      "intensidad": 2
+    },
+    {
+      "texto": "Comida afrodisiaca",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes encontrar en el mar",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas que puedes encontrar en unos xv años",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes untar en un pan",
+      "intensidad": 2
+    },
+    {
+      "texto": "Apodos para ir a hacer del baño",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que puedes encontrar en un baño",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas infieles",
+      "intensidad": 2
+    },
+    {
+      "texto": "Personas atractivas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Metodos anticonceptivos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Famosos atractivos",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas mojadas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas duras",
+      "intensidad": 2
+    },
+    {
+      "texto": "Cosas que cuelgan",
+      "intensidad": 2
+    },
+    {
+      "texto": "Lugares donde te puedes quedar dormido",
+      "intensidad": 2
+    },
+    {
+      "texto": "Teorias conspirativas",
+      "intensidad": 2
+    },
+    {
+      "texto": "Religiones",
+      "intensidad": 2
     },
     {
       "texto": "Categorias porno",
@@ -727,10 +731,6 @@
     {
       "texto": "Canciones buenas para tener sexo",
       "intensidad": 3
-    },
-    {
-      "texto": "ruidos de animales",
-      "intensidad": 1
     }
   ]
 }
