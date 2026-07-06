@@ -4,6 +4,7 @@
   "tipo": "simple",
   "color": "1a0050",
   "imagenFondo": "subpaquete_ninja",
+  "esPremiumOnly": true,
   "probabilidad": 1,
   "dependeDe": "subpaquete_culpablesecreto",
   "ventanaEntre": true
