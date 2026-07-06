@@ -3,6 +3,7 @@
   "nombre": "Caricachupas",
   "tipo": "simple",
   "color": "ffc928",
-  "imagenFondo": "paquete_juego"
+  "imagenFondo": "paquete_juego",
+  "esPremiumOnly": true
 }
 
