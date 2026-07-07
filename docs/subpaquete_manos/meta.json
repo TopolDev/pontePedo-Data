@@ -1,0 +1,8 @@
+{
+  "id": "subpaquete_manos",
+  "nombre": "Manos...",
+  "tipo": "simple",
+  "color": "ffc928",
+  "imagenFondo": "paquete_juego",
+  "esPremiumOnly": true
+}
