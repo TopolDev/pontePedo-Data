@@ -2,7 +2,7 @@
   "id": "paquete_juego",
   "nombre": "¡Juego!",
   "tipo": "bundle",
-  "subPaquetes": ["subpaquete_caricachupas, subpaquete_mipepa, subpaquete_manos"],
+  "subPaquetes": ["subpaquete_caricachupas", "subpaquete_mipepa", "subpaquete_manos"],
   "esPremiumOnly": true,
   "color": "ffc928",
   "imagenFondo": "paquete_juego"
