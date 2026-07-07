@@ -4,5 +4,7 @@
   "tipo": "simple",
   "color": "ffc928",
   "imagenFondo": "paquete_juego",
-  "esPremiumOnly": true
+  "esPremiumOnly": true,
+  "cooldownMin": 4,
+  "cooldownMax": 10
 }
