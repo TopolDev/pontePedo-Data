@@ -1,0 +1,79 @@
+{
+  "paquetes": [
+    {
+      "id": "paquete_decreto",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "paquete_horadelte",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."        
+    },
+    {
+      "id": "paquete_culpable",
+      "reglas": "texto de las reglas...",
+      "video": "https://..." 
+    },
+    {
+      "id": "paquete_shot",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+      
+    },
+    {
+      "id": "paquete_reto",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+      
+    },
+    {
+      "id": "paquete_yonunca",
+    "reglas": "texto de las reglas...",
+        "video": "https://..."
+  
+    },
+    {
+      "id": "paquete_juego",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+
+    },
+    {
+      "id": "paquete_trivia",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "paquete_queprefieres",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "subpaquete_caricachupas",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "subpaquete_culpablesecreto",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "subpaquete_manos",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "subpaquete_mipepa",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    },
+    {
+      "id": "subpaquete_ninja",
+      "reglas": "texto de las reglas...",
+      "video": "https://..."
+    }
+
+  ]
+}
