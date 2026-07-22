@@ -3,7 +3,7 @@
     {
       "id": "paquete_decreto",
       "nombre": "Decreto",
-      "descripcion": "Iniciamos una regla que aplicará por el resto de la noche, a menos que otra regla aparezca.",
+      "descripcion": "¡Su majestad ha hablado! Te toca acatar",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 104
@@ -11,7 +11,7 @@
     {
       "id": "paquete_horadelte",
       "nombre": "Hora del té",
-      "descripcion": "Preguntas abiertas, encaminadas a aprender más sobre los jugadores.",
+      "descripcion": "Preguntas para conocernos... a fondo😏",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 292
@@ -20,7 +20,7 @@
       "id": "paquete_culpable",
       "subPaquetes": ["subpaquete_culpablesecreto", "subpaquete_ninja"],
       "nombre": "Culpable",
-      "descripcion": "A la cuenta de 3 todos deben señalar a alguien. Quien reciba más votos, toma shot.",
+      "descripcion": "Donde juzgamos y no escuchamos",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 236
@@ -28,7 +28,7 @@
     {
       "id": "paquete_shot",
       "nombre": "¡Shot!",
-      "descripcion": "Tomas si cumples con las condicionantes. Alternativamente, puedes permitirle al jugador elegir quién toma, si cumple una condicionante.",
+      "descripcion": "Si te queda el saco, tomas",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 152
@@ -36,7 +36,7 @@
     {
       "id": "paquete_reto",
       "nombre": "Reto",
-      "descripcion": "Retos. Para safarte, debes tomar la cantidad de tragos que indique la carta. Mientras más alto el nivel, más tragos.",
+      "descripcion": "¿A dónde vamos a parar?",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 242
@@ -44,7 +44,7 @@
     {
       "id": "paquete_yonunca",
       "nombre": "Yo nunca nunca",
-      "descripcion": "Presentamos un escenario. Quienes hayan hecho lo que 'nunca nunca' se ha hecho, toman.",
+      "descripcion": "Tomar no es confesar… ¿o sí?",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 348
@@ -52,7 +52,7 @@
     {
       "id": "paquete_juego",
       "nombre": "Juego",
-      "descripcion": "Set con varios juegos: Mi pepa mi pito, caricachupas, cascada, teléfono.",
+      "descripcion": "Los clásicos de peda como caricachupas, mi pepa mi pito y cascada",
       "esPremiumOnly": true,
       "preguntasGratis": 0,
       "preguntasPremium": 300
@@ -60,7 +60,7 @@
     {
       "id": "paquete_trivia",
       "nombre": "Trivia",
-      "descripcion": "Preguntas de cultura general. El primero en responder, ordena shot. El que está preguntando no toma.",
+      "descripcion": "¿Qué tanta información trivial conoces?",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 222
@@ -68,7 +68,7 @@
     {
       "id": "paquete_queprefieres",
       "nombre": "Qué prefieres",
-      "descripcion": "Preguntas estilo disparejo.",
+      "descripcion": "Decidir es fácil, lo difícil es admitirlo",
       "esPremiumOnly": false,
       "preguntasGratis": 40,
       "preguntasPremium": 223
